@@ -1,0 +1,1371 @@
+tipo,bairro,nivel_m,campo,valor_original,valor_corrigido,tratamento
+maior_que_nivel_superior,Espírito Santo,3.0,affected_buildings,637.0,25.0,limitado ao menor valor dos níveis acima
+maior_que_nivel_superior,Espírito Santo,3.1,affected_buildings,637.0,25.0,limitado ao menor valor dos níveis acima
+maior_que_nivel_superior,Espírito Santo,3.2,affected_buildings,637.0,25.0,limitado ao menor valor dos níveis acima
+maior_que_nivel_superior,Espírito Santo,3.3,affected_buildings,637.0,25.0,limitado ao menor valor dos níveis acima
+maior_que_nivel_superior,Espírito Santo,3.4,affected_buildings,633.0,25.0,limitado ao menor valor dos níveis acima
+ordem_dos_bairros,,5.3,,,,nenhum: o formato longo não depende da ordem
+oscilacao_pequena,Arquipélago,3.1,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.2,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.3,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.4,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.6,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.7,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.8,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,3.9,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.1,affected_buildings,4674.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.2,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.3,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.4,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.6,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.7,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.8,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,4.9,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.1,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.2,affected_buildings,4680.0,4685.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.4,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.5,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.6,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.7,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.8,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,5.9,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.0,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.1,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.2,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.3,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.4,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.5,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.6,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.7,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.8,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,6.9,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.0,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.1,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.2,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.3,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.4,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.5,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.6,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.7,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.8,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,7.9,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.0,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.1,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.2,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.3,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.4,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.5,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.6,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.7,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.8,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,8.9,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.0,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.1,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.2,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.3,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.4,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.5,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.6,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.7,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.8,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,9.9,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+oscilacao_pequena,Arquipélago,10.0,affected_buildings,4680.0,4688.0,acumulado máximo dos níveis abaixo
+percentual_arredondado_para_cima,Aberta dos Morros,3.4,percentage,1.0,0.0213,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,3.5,percentage,1.0,0.0213,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,3.6,percentage,1.0,0.0852,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,3.7,percentage,1.0,0.4259,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,4.1,percentage,2.0,1.3416,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,4.3,percentage,3.0,2.0017,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,4.4,percentage,3.0,2.4276,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,4.6,percentage,4.0,3.3007,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,4.7,percentage,4.0,3.4497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,5.0,percentage,5.0,4.2802,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,5.3,percentage,6.0,5.3663,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,5.4,percentage,7.0,6.0477,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,5.7,percentage,8.0,7.1124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,6.0,percentage,9.0,8.1133,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,6.1,percentage,9.0,8.4327,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,6.5,percentage,10.0,9.2206,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,6.6,percentage,10.0,9.4549,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.0,percentage,12.0,11.3501,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.2,percentage,13.0,12.2445,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.3,percentage,13.0,12.4148,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.5,percentage,14.0,13.075,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.6,percentage,14.0,13.2027,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.7,percentage,14.0,13.3731,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,7.9,percentage,15.0,14.0332,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.0,percentage,15.0,14.161,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.1,percentage,15.0,14.3313,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.4,percentage,16.0,15.0767,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.5,percentage,16.0,15.2044,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.8,percentage,17.0,16.184,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,8.9,percentage,17.0,16.3969,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,9.0,percentage,18.0,17.0571,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,9.2,percentage,19.0,18.1005,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,9.3,percentage,19.0,18.3773,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,9.6,percentage,20.0,19.3995,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,9.7,percentage,21.0,20.0809,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Aberta dos Morros,10.0,percentage,22.0,21.2095,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Anchieta,3.2,percentage,87.0,86.2479,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Anchieta,3.4,percentage,96.0,95.2462,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,4.3,percentage,3.0,2.2611,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,4.5,percentage,6.0,5.0648,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,5.5,percentage,13.0,12.1194,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,5.6,percentage,14.0,13.2047,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,5.7,percentage,15.0,14.079,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,5.9,percentage,17.0,16.3702,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,6.0,percentage,18.0,17.3048,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,6.2,percentage,20.0,19.0232,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,6.5,percentage,22.0,21.0733,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,6.8,percentage,25.0,24.4197,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,7.3,percentage,33.0,32.0169,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,7.5,percentage,35.0,34.1574,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,7.8,percentage,38.0,37.142,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,8.0,percentage,42.0,41.1818,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,8.2,percentage,44.0,43.0509,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,8.4,percentage,47.0,46.3069,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,8.5,percentage,48.0,47.0606,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,9.1,percentage,53.0,52.1254,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,9.3,percentage,54.0,53.3012,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,9.4,percentage,55.0,54.1152,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,9.5,percentage,55.0,54.3865,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,9.8,percentage,57.0,56.3461,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Azenha,10.0,percentage,58.0,57.3108,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,3.5,percentage,4.0,3.1437,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,3.8,percentage,6.0,5.4391,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,3.9,percentage,7.0,6.2043,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.0,percentage,8.0,7.1856,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.1,percentage,10.0,9.3147,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.2,percentage,11.0,10.4624,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.3,percentage,12.0,11.3273,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.6,percentage,18.0,17.1158,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,4.9,percentage,24.0,23.4365,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,5.3,percentage,32.0,31.1211,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,5.9,percentage,46.0,45.3593,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,6.0,percentage,47.0,46.2741,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,6.2,percentage,48.0,47.2056,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,6.6,percentage,50.0,49.1517,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,6.8,percentage,51.0,50.183,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,6.9,percentage,51.0,50.4657,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,7.1,percentage,52.0,51.3639,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,7.2,percentage,53.0,52.0792,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,7.5,percentage,54.0,53.2269,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,7.7,percentage,55.0,54.1251,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,7.9,percentage,56.0,55.0898,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,8.0,percentage,56.0,55.3393,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,8.2,percentage,57.0,56.3872,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,8.4,percentage,58.0,57.3686,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,8.6,percentage,59.0,58.2169,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,8.9,percentage,60.0,59.348,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.1,percentage,61.0,60.3959,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.2,percentage,62.0,61.0279,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.4,percentage,63.0,62.0093,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.5,percentage,63.0,62.3919,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.8,percentage,65.0,64.1218,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Belém Novo,9.9,percentage,65.0,64.3214,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.0,percentage,13.0,12.4898,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.2,percentage,14.0,13.4694,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.3,percentage,15.0,14.0816,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.5,percentage,16.0,15.102,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.6,percentage,19.0,18.4082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,3.8,percentage,20.0,19.3469,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,4.0,percentage,21.0,20.2041,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,4.1,percentage,21.0,20.2857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,4.4,percentage,25.0,24.1224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,4.5,percentage,25.0,24.4898,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,5.0,percentage,26.0,25.2245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,5.1,percentage,26.0,25.3061,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,5.2,percentage,26.0,25.4286,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,5.8,percentage,27.0,26.0408,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,5.9,percentage,27.0,26.1224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.0,percentage,27.0,26.1633,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.1,percentage,27.0,26.2857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.2,percentage,27.0,26.3673,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.3,percentage,27.0,26.4898,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.7,percentage,28.0,27.2653,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,6.8,percentage,28.0,27.4694,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.4,percentage,29.0,28.1633,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.5,percentage,29.0,28.2041,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.6,percentage,29.0,28.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.7,percentage,29.0,28.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.8,percentage,29.0,28.3673,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,7.9,percentage,29.0,28.4082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,8.5,percentage,30.0,29.2245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,8.6,percentage,30.0,29.4286,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,9.1,percentage,31.0,30.0816,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,9.2,percentage,31.0,30.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,9.3,percentage,31.0,30.4082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,9.7,percentage,33.0,32.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Boa Vista do Sul,9.9,percentage,34.0,33.102,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.3,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.4,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.5,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.6,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.7,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.8,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,8.9,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.0,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.1,percentage,1.0,0.038,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.2,percentage,1.0,0.0507,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.3,percentage,1.0,0.0507,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.4,percentage,1.0,0.0633,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.5,percentage,1.0,0.1013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.6,percentage,1.0,0.1013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,9.9,percentage,2.0,1.0257,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Camaquã,10.0,percentage,2.0,1.4436,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,6.2,percentage,1.0,0.1317,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,6.3,percentage,1.0,0.2415,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,6.4,percentage,1.0,0.461,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,6.5,percentage,1.0,0.461,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,6.9,percentage,2.0,1.1634,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,7.0,percentage,2.0,1.4268,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,7.3,percentage,3.0,2.1293,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,7.4,percentage,3.0,2.1842,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,7.5,percentage,3.0,2.3488,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,7.6,percentage,3.0,2.4256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.0,percentage,5.0,4.083,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.1,percentage,5.0,4.3464,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.2,percentage,5.0,4.4562,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.4,percentage,6.0,5.1366,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.5,percentage,6.0,5.2793,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.6,percentage,6.0,5.4549,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,8.9,percentage,7.0,6.4537,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,9.6,percentage,8.0,7.4306,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cavalhada,10.0,percentage,9.0,8.1769,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.1,percentage,2.0,1.0204,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.2,percentage,2.0,1.1827,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.6,percentage,3.0,2.0176,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.7,percentage,3.0,2.1104,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.8,percentage,3.0,2.4583,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,3.9,percentage,4.0,3.2004,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,4.0,percentage,4.0,3.3859,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,4.5,percentage,6.0,5.0557,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,4.7,percentage,7.0,6.0065,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,4.8,percentage,7.0,6.3312,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,5.0,percentage,8.0,7.2588,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,5.1,percentage,8.0,7.4907,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,5.7,percentage,15.0,14.4712,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,5.8,percentage,16.0,15.2365,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.0,percentage,18.0,17.2078,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.2,percentage,20.0,19.0399,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.4,percentage,21.0,20.4314,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.7,percentage,24.0,23.3302,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.8,percentage,25.0,24.2347,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,6.9,percentage,26.0,25.1855,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.1,percentage,27.0,26.1827,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.2,percentage,28.0,27.18,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.3,percentage,29.0,28.4091,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.5,percentage,31.0,30.4035,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.6,percentage,32.0,31.4239,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,7.7,percentage,33.0,32.2124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.0,percentage,35.0,34.4156,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.2,percentage,37.0,36.1549,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.3,percentage,39.0,38.2653,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.4,percentage,40.0,39.1466,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.5,percentage,41.0,40.4685,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.6,percentage,42.0,41.0714,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.7,percentage,42.0,41.3729,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.8,percentage,43.0,42.1382,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,8.9,percentage,44.0,43.2514,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,9.2,percentage,46.0,45.1299,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Centro Histórico,9.9,percentage,50.0,49.397,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.0,percentage,1.0,0.1112,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.1,percentage,1.0,0.1112,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.2,percentage,1.0,0.1669,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.3,percentage,1.0,0.2225,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.4,percentage,1.0,0.2225,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.5,percentage,1.0,0.2225,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,5.6,percentage,1.0,0.3337,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,6.0,percentage,2.0,1.1123,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,6.4,percentage,4.0,3.2814,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,6.5,percentage,5.0,4.2269,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,6.6,percentage,6.0,5.1168,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,7.0,percentage,9.0,8.1201,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,7.2,percentage,15.0,14.1824,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,7.3,percentage,18.0,17.4082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,7.8,percentage,41.0,40.1557,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,7.9,percentage,44.0,43.4928,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.0,percentage,45.0,44.2714,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.1,percentage,46.0,45.1613,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.4,percentage,48.0,47.4416,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.5,percentage,49.0,48.1646,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.6,percentage,51.0,50.1112,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.7,percentage,51.0,50.3893,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.8,percentage,52.0,51.2792,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,8.9,percentage,53.0,52.0022,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.0,percentage,54.0,53.2258,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.2,percentage,57.0,56.4516,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.3,percentage,59.0,58.287,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.5,percentage,64.0,63.3482,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.7,percentage,65.0,64.0156,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,9.8,percentage,66.0,65.1835,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Chapéu do Sol,10.0,percentage,67.0,66.129,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.3,percentage,1.0,0.1283,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.4,percentage,1.0,0.2138,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.5,percentage,1.0,0.2138,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.6,percentage,1.0,0.2138,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.7,percentage,1.0,0.2138,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,3.8,percentage,1.0,0.2993,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,4.0,percentage,2.0,1.3254,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,4.5,percentage,26.0,25.3527,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,4.6,percentage,31.0,30.0556,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,4.7,percentage,37.0,36.2548,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,4.8,percentage,41.0,40.2309,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,5.1,percentage,47.0,46.3873,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,5.4,percentage,56.0,55.1518,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,5.6,percentage,59.0,58.3583,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,5.8,percentage,63.0,62.0351,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,5.9,percentage,67.0,66.2249,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,6.0,percentage,68.0,67.3792,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,6.2,percentage,72.0,71.0988,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,6.3,percentage,73.0,72.0393,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,6.5,percentage,76.0,75.2458,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,6.9,percentage,82.0,81.4878,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,7.0,percentage,84.0,83.1979,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,7.3,percentage,88.0,87.4733,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,7.6,percentage,93.0,92.0051,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,7.8,percentage,94.0,93.074,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,7.9,percentage,94.0,93.074,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cidade Baixa,8.1,percentage,99.0,98.4181,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.0,percentage,1.0,0.1955,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.1,percentage,1.0,0.2151,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.2,percentage,1.0,0.2249,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.3,percentage,1.0,0.2444,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.4,percentage,1.0,0.264,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.5,percentage,1.0,0.2737,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.6,percentage,1.0,0.3128,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.7,percentage,2.0,1.4664,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,3.9,percentage,3.0,2.229,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,4.2,percentage,6.0,5.0152,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,4.3,percentage,6.0,5.4062,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,4.5,percentage,7.0,6.374,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,5.0,percentage,10.0,9.0136,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,5.1,percentage,10.0,9.3851,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,5.3,percentage,11.0,10.1672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,5.5,percentage,12.0,11.4381,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,5.8,percentage,14.0,13.1782,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,6.1,percentage,16.0,15.153,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,6.2,percentage,16.0,15.4952,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,6.3,percentage,17.0,16.1306,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,6.6,percentage,18.0,17.3233,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,6.9,percentage,19.0,18.2716,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,7.2,percentage,20.0,19.2394,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,7.4,percentage,21.0,20.1681,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,7.5,percentage,21.0,20.3148,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,7.7,percentage,22.0,21.4195,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,7.8,percentage,23.0,22.0452,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,8.2,percentage,25.0,24.2448,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,8.4,percentage,26.0,25.1735,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,8.5,percentage,27.0,26.112,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,8.6,percentage,27.0,26.2978,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.1,percentage,31.0,30.4429,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.2,percentage,32.0,31.137,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.3,percentage,33.0,32.1732,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.4,percentage,34.0,33.0824,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.5,percentage,35.0,34.0209,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.6,percentage,35.0,34.3924,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.7,percentage,36.0,35.2527,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,9.9,percentage,37.0,36.025,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristal,10.0,percentage,37.0,36.2303,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Cristo Redentor,10.0,percentage,1.0,0.1233,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.0,percentage,20.0,19.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.1,percentage,20.0,19.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.2,percentage,20.0,19.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.3,percentage,20.0,19.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.8,percentage,2.0,1.0174,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,3.9,percentage,2.0,1.0174,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.0,percentage,2.0,1.0174,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.1,percentage,2.0,1.2867,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.2,percentage,2.0,1.2867,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.3,percentage,2.0,1.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.4,percentage,2.0,1.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.5,percentage,2.0,1.3764,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.6,percentage,2.0,1.3764,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.8,percentage,2.0,1.4063,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,4.9,percentage,2.0,1.4063,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,5.0,percentage,2.0,1.4363,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.0,percentage,3.0,2.1544,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.1,percentage,3.0,2.1544,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.2,percentage,3.0,2.1544,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.3,percentage,3.0,2.2442,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.4,percentage,3.0,2.304,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.5,percentage,3.0,2.304,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.6,percentage,3.0,2.304,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.7,percentage,3.0,2.304,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.8,percentage,3.0,2.3339,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,7.9,percentage,3.0,2.3339,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,8.0,percentage,3.0,2.3339,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,8.1,percentage,3.0,2.3938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,8.2,percentage,3.0,2.3938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,8.3,percentage,3.0,2.3938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,9.2,percentage,4.0,3.0521,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,9.3,percentage,4.0,3.0521,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,9.4,percentage,4.0,3.1718,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,9.5,percentage,4.0,3.1718,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Espírito Santo,9.6,percentage,4.0,3.4411,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,8.7,percentage,2.0,1.1059,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,8.8,percentage,3.0,2.1268,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,8.9,percentage,3.0,2.1693,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.1,percentage,4.0,3.1901,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.2,percentage,4.0,3.4879,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.3,percentage,7.0,6.2952,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.4,percentage,10.0,9.4003,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.5,percentage,13.0,12.2501,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.6,percentage,14.0,13.3135,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,9.8,percentage,20.0,19.3535,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Extrema,10.0,percentage,24.0,23.3518,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farrapos,3.0,percentage,80.0,79.4374,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farrapos,3.3,percentage,98.0,97.3684,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farrapos,3.6,percentage,100.0,99.0563,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.2,percentage,5.0,4.4053,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.3,percentage,5.0,4.4053,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.4,percentage,5.0,4.4053,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.5,percentage,5.0,4.4053,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.6,percentage,6.0,5.2863,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.7,percentage,8.0,7.0485,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,7.8,percentage,8.0,7.0485,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,8.3,percentage,12.0,11.0132,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,8.8,percentage,16.0,15.4185,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.0,percentage,29.0,28.1938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.3,percentage,31.0,30.3965,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.5,percentage,33.0,32.1586,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.6,percentage,34.0,33.0396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.7,percentage,36.0,35.2423,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.8,percentage,38.0,37.0044,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,9.9,percentage,38.0,37.0044,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Farroupilha,10.0,percentage,38.0,37.4449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,3.4,percentage,9.0,8.282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,3.5,percentage,12.0,11.2302,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,3.6,percentage,14.0,13.16,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,3.7,percentage,19.0,18.3329,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,3.9,percentage,32.0,31.1713,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.1,percentage,40.0,39.0512,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.2,percentage,42.0,41.3026,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.3,percentage,45.0,44.3581,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.4,percentage,47.0,46.3951,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.5,percentage,49.0,48.0032,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,4.9,percentage,60.0,59.2871,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,5.4,percentage,68.0,67.3546,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,5.5,percentage,70.0,69.2308,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,5.6,percentage,72.0,71.375,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,5.8,percentage,76.0,75.3149,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,5.9,percentage,77.0,76.1994,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,6.0,percentage,79.0,78.1292,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,6.1,percentage,81.0,80.0322,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,6.3,percentage,84.0,83.0876,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,6.6,percentage,87.0,86.4111,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,6.7,percentage,89.0,88.1533,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.1,percentage,91.0,90.4851,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.2,percentage,92.0,91.048,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.4,percentage,93.0,92.2273,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.5,percentage,94.0,93.1118,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.6,percentage,95.0,94.1839,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,7.7,percentage,95.0,94.2107,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,8.0,percentage,96.0,95.2024,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,8.1,percentage,97.0,96.3013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,8.6,percentage,99.0,98.1774,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,8.7,percentage,99.0,98.3919,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,8.9,percentage,100.0,99.0083,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,9.0,percentage,100.0,99.0351,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,9.1,percentage,100.0,99.0619,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Floresta,9.2,percentage,100.0,99.3835,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,3.0,percentage,9.0,8.2418,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,3.2,percentage,10.0,9.375,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,3.6,percentage,13.0,12.3626,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,3.8,percentage,18.0,17.1703,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,4.0,percentage,20.0,19.1964,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,4.1,percentage,21.0,20.0549,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,4.4,percentage,23.0,22.1497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,4.7,percentage,25.0,24.4849,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,4.8,percentage,26.0,25.0687,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,5.1,percentage,28.0,27.3352,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,5.2,percentage,29.0,28.1593,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,5.4,percentage,30.0,29.1552,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,5.6,percentage,31.0,30.1511,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.0,percentage,33.0,32.0055,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.1,percentage,33.0,32.2802,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.2,percentage,33.0,32.2802,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.4,percentage,34.0,33.1731,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.5,percentage,34.0,33.4135,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.7,percentage,35.0,34.375,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,6.9,percentage,36.0,35.0618,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,7.1,percentage,37.0,36.1264,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,7.2,percentage,37.0,36.2637,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,7.5,percentage,38.0,37.0536,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,7.6,percentage,38.0,37.4313,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,7.7,percentage,39.0,38.2212,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,8.2,percentage,41.0,40.1786,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,8.6,percentage,43.0,42.033,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,8.7,percentage,43.0,42.136,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,9.2,percentage,45.0,44.1964,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,9.6,percentage,47.0,46.0852,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,9.8,percentage,48.0,47.1841,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Guarujá,9.9,percentage,48.0,47.3558,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Humaitá,3.0,percentage,2.0,1.2937,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Humaitá,3.2,percentage,17.0,16.3392,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Humaitá,3.3,percentage,53.0,52.276,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Humaitá,3.4,percentage,67.0,66.1715,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Humaitá,3.6,percentage,88.0,87.2065,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.4,percentage,1.0,0.0179,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.5,percentage,1.0,0.0716,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.6,percentage,1.0,0.161,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.7,percentage,1.0,0.2505,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.8,percentage,1.0,0.3131,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,3.9,percentage,1.0,0.331,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,4.7,percentage,2.0,1.1988,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,4.8,percentage,2.0,1.2793,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,5.1,percentage,3.0,2.1471,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,5.3,percentage,4.0,3.2653,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,5.5,percentage,5.0,4.4999,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,5.7,percentage,7.0,6.1371,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,5.8,percentage,7.0,6.3428,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.2,percentage,8.0,7.0227,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.3,percentage,8.0,7.2285,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.4,percentage,8.0,7.3001,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.5,percentage,8.0,7.3895,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.6,percentage,8.0,7.4879,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,6.9,percentage,9.0,8.0963,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.0,percentage,9.0,8.311,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.4,percentage,10.0,9.143,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.5,percentage,10.0,9.295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.6,percentage,10.0,9.4919,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.8,percentage,11.0,10.0644,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,7.9,percentage,11.0,10.2791,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,8.0,percentage,11.0,10.3507,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,8.1,percentage,11.0,10.4491,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,8.5,percentage,12.0,11.3795,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,8.8,percentage,13.0,12.2115,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,9.2,percentage,15.0,14.4033,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,9.6,percentage,19.0,18.2591,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Hípica,9.7,percentage,20.0,19.3684,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,6.5,percentage,3.0,2.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,6.6,percentage,3.0,2.449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,6.7,percentage,3.0,2.449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,7.4,percentage,4.0,3.0612,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,7.5,percentage,4.0,3.1633,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.1,percentage,6.0,5.102,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.2,percentage,6.0,5.4082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.3,percentage,7.0,6.1224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.4,percentage,7.0,6.1224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.8,percentage,8.0,7.0408,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,8.9,percentage,8.0,7.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,9.0,percentage,8.0,7.2449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,9.1,percentage,8.0,7.449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Independência,9.2,percentage,8.0,7.449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.0,percentage,1.0,0.2577,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.1,percentage,1.0,0.2811,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.2,percentage,1.0,0.3397,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.3,percentage,1.0,0.4334,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.4,percentage,1.0,0.4803,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,3.9,percentage,2.0,1.0659,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,4.0,percentage,2.0,1.4994,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,4.3,percentage,3.0,2.1436,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,4.6,percentage,4.0,3.069,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,4.7,percentage,4.0,3.4087,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.0,percentage,7.0,6.1028,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.3,percentage,10.0,9.2421,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.4,percentage,11.0,10.3666,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.7,percentage,14.0,13.4825,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.8,percentage,15.0,14.4899,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,5.9,percentage,16.0,15.017,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,6.0,percentage,17.0,16.1298,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,6.4,percentage,22.0,21.0378,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,6.5,percentage,23.0,22.2443,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,6.6,percentage,24.0,23.0526,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.1,percentage,28.0,27.1407,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.2,percentage,29.0,28.3355,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.3,percentage,30.0,29.1554,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.4,percentage,31.0,30.3502,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.5,percentage,32.0,31.1585,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,7.8,percentage,34.0,33.3255,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,8.0,percentage,35.0,34.2978,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,8.4,percentage,38.0,37.355,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,8.7,percentage,40.0,39.0535,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,8.9,percentage,41.0,40.2249,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,9.2,percentage,42.0,41.1737,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,9.3,percentage,42.0,41.3611,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,9.6,percentage,43.0,42.2162,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,9.7,percentage,43.0,42.3568,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ipanema,9.9,percentage,44.0,43.4345,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,8.5,percentage,1.0,0.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,8.6,percentage,1.0,0.0604,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,8.7,percentage,1.0,0.1208,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,8.8,percentage,1.0,0.1812,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,8.9,percentage,1.0,0.1812,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.0,percentage,1.0,0.2114,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.1,percentage,1.0,0.2415,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.2,percentage,1.0,0.3019,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.3,percentage,1.0,0.3019,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.8,percentage,2.0,1.0568,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,9.9,percentage,2.0,1.3285,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Botânico,10.0,percentage,3.0,2.0531,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.3,percentage,1.0,0.1711,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.4,percentage,1.0,0.2282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.5,percentage,1.0,0.2282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.6,percentage,1.0,0.2282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.7,percentage,1.0,0.2282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,3.8,percentage,1.0,0.3423,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.1,percentage,2.0,1.0268,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.2,percentage,2.0,1.0268,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.3,percentage,2.0,1.0268,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.4,percentage,2.0,1.0839,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.5,percentage,2.0,1.255,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,4.9,percentage,3.0,2.1107,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,5.2,percentage,4.0,3.1945,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,5.3,percentage,5.0,4.2213,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,5.6,percentage,7.0,6.1609,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,5.7,percentage,8.0,7.0165,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,5.8,percentage,9.0,8.0434,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.0,percentage,10.0,9.1843,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.1,percentage,10.0,9.2983,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.2,percentage,10.0,9.4124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.6,percentage,11.0,10.3822,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.7,percentage,11.0,10.3822,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,6.8,percentage,11.0,10.3822,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.0,percentage,12.0,11.2949,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.1,percentage,12.0,11.2949,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.5,percentage,13.0,12.0936,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.6,percentage,13.0,12.4358,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.8,percentage,14.0,13.4626,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,7.9,percentage,15.0,14.2613,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,8.0,percentage,16.0,15.174,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,8.2,percentage,17.0,16.3719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,8.3,percentage,18.0,17.4558,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,8.7,percentage,23.0,22.0194,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,8.8,percentage,23.0,22.0764,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,9.0,percentage,24.0,23.2744,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,9.2,percentage,25.0,24.3582,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Floresta,9.6,percentage,26.0,25.4421,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.2,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.3,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.4,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.5,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.6,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.7,percentage,1.0,0.0672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.8,percentage,1.0,0.2688,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,6.9,percentage,1.0,0.4032,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,7.0,percentage,1.0,0.4032,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,7.1,percentage,1.0,0.4032,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,7.2,percentage,1.0,0.4704,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,7.6,percentage,2.0,1.0753,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,7.7,percentage,2.0,1.0753,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.0,percentage,4.0,3.4946,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.1,percentage,4.0,3.4946,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.3,percentage,5.0,4.3683,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.4,percentage,6.0,5.3763,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.5,percentage,7.0,6.4516,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.7,percentage,8.0,7.4597,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,8.8,percentage,9.0,8.0645,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,9.2,percentage,12.0,11.0215,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,9.3,percentage,12.0,11.3575,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,9.6,percentage,13.0,12.2984,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,9.7,percentage,13.0,12.3656,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Isabel,9.8,percentage,13.0,12.4328,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.2,percentage,1.0,0.0588,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.3,percentage,1.0,0.1176,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.4,percentage,1.0,0.1764,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.5,percentage,1.0,0.1764,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.6,percentage,1.0,0.2352,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.7,percentage,1.0,0.2939,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.8,percentage,1.0,0.2939,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,7.9,percentage,1.0,0.2939,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,8.6,percentage,2.0,1.2346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,8.7,percentage,2.0,1.2346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,9.0,percentage,3.0,2.2928,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,9.1,percentage,4.0,3.1158,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,9.5,percentage,8.0,7.0547,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,9.7,percentage,9.0,8.348,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,9.9,percentage,10.0,9.2299,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim Lindóia,10.0,percentage,10.0,9.3474,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,3.9,percentage,1.0,0.0682,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.0,percentage,1.0,0.0682,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.1,percentage,1.0,0.0682,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.2,percentage,1.0,0.1363,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.3,percentage,1.0,0.2045,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.4,percentage,1.0,0.2727,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.5,percentage,1.0,0.3408,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.6,percentage,1.0,0.4772,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.7,percentage,1.0,0.4772,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,4.9,percentage,2.0,1.0225,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,5.0,percentage,2.0,1.2952,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,5.5,percentage,5.0,4.2945,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,5.7,percentage,7.0,6.0668,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,5.8,percentage,7.0,6.135,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,5.9,percentage,7.0,6.2713,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,6.0,percentage,7.0,6.2713,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,6.1,percentage,7.0,6.2713,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,6.2,percentage,7.0,6.3395,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,6.3,percentage,7.0,6.4758,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,6.7,percentage,10.0,9.407,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,7.2,percentage,11.0,10.1568,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,7.9,percentage,13.0,12.4744,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,8.3,percentage,16.0,15.2011,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,8.5,percentage,17.0,16.2236,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,8.6,percentage,17.0,16.2236,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,8.8,percentage,18.0,17.1097,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.0,percentage,19.0,18.4049,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.2,percentage,21.0,20.0409,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.3,percentage,21.0,20.3136,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.4,percentage,22.0,21.1316,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.5,percentage,23.0,22.2904,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.6,percentage,23.0,22.3586,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.7,percentage,24.0,23.0402,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Jardim São Pedro,9.8,percentage,25.0,24.199,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.0,percentage,1.0,0.0825,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.1,percentage,1.0,0.0825,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.2,percentage,1.0,0.1375,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.3,percentage,1.0,0.22,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.4,percentage,1.0,0.4124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.5,percentage,1.0,0.4674,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,5.6,percentage,1.0,0.4949,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,6.1,percentage,2.0,1.0723,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,6.2,percentage,2.0,1.1823,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,6.3,percentage,2.0,1.3473,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,6.4,percentage,2.0,1.4297,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,6.9,percentage,3.0,2.0346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,7.0,percentage,3.0,2.0621,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,7.1,percentage,3.0,2.0621,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,7.2,percentage,3.0,2.1721,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,7.3,percentage,3.0,2.2271,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,7.4,percentage,3.0,2.3921,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.2,percentage,4.0,3.0245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.3,percentage,4.0,3.0245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.4,percentage,4.0,3.0245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.5,percentage,4.0,3.0245,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.6,percentage,4.0,3.1619,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.7,percentage,4.0,3.1894,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.8,percentage,4.0,3.1894,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,8.9,percentage,4.0,3.2444,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.0,percentage,4.0,3.2444,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.1,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.2,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.3,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.4,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.5,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.6,percentage,4.0,3.2719,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.7,percentage,4.0,3.3819,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.8,percentage,4.0,3.3819,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,9.9,percentage,4.0,3.4094,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lageado,10.0,percentage,4.0,3.4094,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.0,percentage,12.0,11.1285,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.1,percentage,14.0,13.0831,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.2,percentage,16.0,15.1681,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.3,percentage,23.0,22.2048,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.4,percentage,26.0,25.3323,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.7,percentage,37.0,36.0959,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,3.9,percentage,38.0,37.0863,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,4.4,percentage,42.0,41.4386,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.1,percentage,47.0,46.0516,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.2,percentage,47.0,46.4686,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.3,percentage,48.0,47.3286,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.4,percentage,49.0,48.0323,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.7,percentage,51.0,50.43,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,5.9,percentage,53.0,52.4629,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.1,percentage,54.0,53.1926,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.2,percentage,55.0,54.3133,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.3,percentage,57.0,56.2419,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.6,percentage,58.0,57.2583,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.8,percentage,59.0,58.4311,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,6.9,percentage,60.0,59.1608,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.0,percentage,60.0,59.4214,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.1,percentage,61.0,60.0208,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.4,percentage,63.0,62.3404,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.7,percentage,65.0,64.295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.8,percentage,66.0,65.0248,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,7.9,percentage,66.0,65.3896,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,8.0,percentage,67.0,66.1715,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,8.2,percentage,68.0,67.1618,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,8.6,percentage,70.0,69.2729,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,8.8,percentage,71.0,70.1069,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,9.0,percentage,72.0,71.1754,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,9.4,percentage,75.0,74.1725,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Lami,9.6,percentage,77.0,76.3878,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,4.3,percentage,43.0,42.3397,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,4.4,percentage,45.0,44.2412,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,4.6,percentage,49.0,48.4969,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,4.9,percentage,53.0,52.2456,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,5.1,percentage,55.0,54.2557,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,5.4,percentage,57.0,56.1753,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,5.7,percentage,60.0,59.0547,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,5.9,percentage,61.0,60.3223,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,6.2,percentage,64.0,63.4009,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,6.4,percentage,66.0,65.1938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,6.6,percentage,67.0,66.0811,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,6.9,percentage,69.0,68.3991,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,7.0,percentage,70.0,69.1597,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,7.1,percentage,70.0,69.4857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,7.2,percentage,71.0,70.0109,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,7.6,percentage,73.0,72.0934,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,7.8,percentage,74.0,73.2887,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.2,percentage,76.0,75.2445,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.3,percentage,77.0,76.1318,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.4,percentage,77.0,76.4578,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.6,percentage,78.0,77.2908,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.7,percentage,79.0,78.1239,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,8.8,percentage,79.0,78.2687,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.1,percentage,80.0,79.4096,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.3,percentage,81.0,80.4238,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.5,percentage,82.0,81.1481,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.6,percentage,83.0,82.0898,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.7,percentage,83.0,82.3252,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Menino Deus,9.9,percentage,84.0,83.285,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.1,percentage,1.0,0.2929,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.2,percentage,1.0,0.2929,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.3,percentage,1.0,0.3347,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.5,percentage,2.0,1.3389,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.6,percentage,2.0,1.3389,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,6.7,percentage,2.0,1.4644,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.1,percentage,4.0,3.2636,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.2,percentage,4.0,3.3473,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.3,percentage,4.0,3.4728,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.4,percentage,5.0,4.1004,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.5,percentage,5.0,4.3515,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.6,percentage,5.0,4.3515,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.8,percentage,6.0,5.2301,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,7.9,percentage,6.0,5.2301,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.0,percentage,6.0,5.3975,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.1,percentage,6.0,5.4812,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.3,percentage,7.0,6.318,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.5,percentage,8.0,7.2803,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.6,percentage,8.0,7.4059,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,8.9,percentage,9.0,8.4519,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.0,percentage,10.0,9.2469,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.1,percentage,12.0,11.1715,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.2,percentage,12.0,11.3808,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.3,percentage,13.0,12.3013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.4,percentage,14.0,13.2636,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.6,percentage,15.0,14.3933,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,9.7,percentage,16.0,15.272,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Moinhos de Vento,10.0,percentage,17.0,16.318,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,3.1,percentage,18.0,17.4196,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,3.4,percentage,28.0,27.3205,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,3.5,percentage,30.0,29.2079,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,4.0,percentage,83.0,82.0235,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,4.1,percentage,89.0,88.3973,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Navegantes,4.2,percentage,98.0,97.0297,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,7.9,percentage,1.0,0.0909,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.0,percentage,1.0,0.1022,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.1,percentage,1.0,0.1534,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.2,percentage,1.0,0.1647,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.3,percentage,1.0,0.1988,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.4,percentage,1.0,0.2556,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.5,percentage,1.0,0.3181,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.6,percentage,1.0,0.3919,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,8.7,percentage,1.0,0.4544,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.0,percentage,2.0,1.0395,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.1,percentage,2.0,1.2212,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.2,percentage,2.0,1.4882,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.5,percentage,3.0,2.0449,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.6,percentage,3.0,2.1812,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.7,percentage,3.0,2.3175,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,9.9,percentage,4.0,3.1298,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Partenon,10.0,percentage,4.0,3.34,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,6.5,percentage,1.0,0.0346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,6.6,percentage,1.0,0.0346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,6.7,percentage,1.0,0.0346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,6.8,percentage,1.0,0.1211,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,6.9,percentage,1.0,0.2942,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,7.0,percentage,1.0,0.3808,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,7.6,percentage,4.0,3.2537,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,7.8,percentage,5.0,4.2229,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,8.0,percentage,6.0,5.3306,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,8.2,percentage,7.0,6.4555,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,8.5,percentage,9.0,8.4458,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,9.1,percentage,13.0,12.3226,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,9.3,percentage,14.0,13.3437,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,9.8,percentage,18.0,17.4455,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Passo D'Areia,10.0,percentage,21.0,20.4915,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,3.0,percentage,5.0,4.4743,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,3.6,percentage,7.0,6.264,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,3.8,percentage,8.0,7.3826,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,3.9,percentage,9.0,8.2774,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,4.0,percentage,9.0,8.2774,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,4.1,percentage,9.0,8.2774,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,4.6,percentage,10.0,9.396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,4.7,percentage,10.0,9.396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,4.8,percentage,10.0,9.396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,5.5,percentage,11.0,10.2908,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,5.8,percentage,12.0,11.1857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,5.9,percentage,12.0,11.1857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,6.1,percentage,13.0,12.3043,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,6.4,percentage,15.0,14.094,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,6.7,percentage,17.0,16.1074,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,6.8,percentage,18.0,17.226,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,6.9,percentage,19.0,18.1208,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.0,percentage,20.0,19.2394,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.1,percentage,21.0,20.1342,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.2,percentage,23.0,22.3714,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.3,percentage,24.0,23.2662,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.5,percentage,26.0,25.0559,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.6,percentage,27.0,26.1745,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.7,percentage,27.0,26.1745,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,7.8,percentage,27.0,26.3982,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.1,percentage,31.0,30.2013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.2,percentage,31.0,30.2013,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.3,percentage,32.0,31.3199,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.4,percentage,33.0,32.2148,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.6,percentage,35.0,34.0045,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,8.9,percentage,37.0,36.2416,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,9.2,percentage,39.0,38.0313,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,9.3,percentage,40.0,39.3736,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,9.9,percentage,46.0,45.1902,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Pedra Redonda,10.0,percentage,46.0,45.4139,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.1,percentage,1.0,0.0147,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.2,percentage,1.0,0.0295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.3,percentage,1.0,0.0295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.4,percentage,1.0,0.0295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.5,percentage,1.0,0.0295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.6,percentage,1.0,0.0295,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.7,percentage,1.0,0.0442,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.8,percentage,1.0,0.0442,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,7.9,percentage,1.0,0.0737,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.0,percentage,1.0,0.0737,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.1,percentage,1.0,0.118,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.2,percentage,1.0,0.118,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.3,percentage,1.0,0.1327,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.4,percentage,1.0,0.1327,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.5,percentage,1.0,0.1474,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.6,percentage,1.0,0.1769,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.7,percentage,1.0,0.1769,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.8,percentage,1.0,0.2212,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,8.9,percentage,1.0,0.3096,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,9.0,percentage,1.0,0.3981,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Petrópolis,9.1,percentage,1.0,0.4718,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,3.1,percentage,5.0,4.1628,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,3.2,percentage,5.0,4.476,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,3.3,percentage,6.0,5.489,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,3.5,percentage,7.0,6.4837,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,3.6,percentage,8.0,7.1652,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,4.0,percentage,15.0,14.1463,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,4.9,percentage,45.0,44.0228,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,5.2,percentage,57.0,56.3456,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,5.6,percentage,71.0,70.0682,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,5.7,percentage,73.0,72.1496,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,5.8,percentage,74.0,73.3653,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.0,percentage,78.0,77.3071,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.1,percentage,79.0,78.2465,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.3,percentage,81.0,80.0516,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.6,percentage,85.0,84.1223,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.7,percentage,87.0,86.4432,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,6.8,percentage,89.0,88.3036,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.0,percentage,90.0,89.0403,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.1,percentage,90.0,89.3535,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.3,percentage,91.0,90.0166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.4,percentage,91.0,90.1087,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.5,percentage,91.0,90.2192,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.6,percentage,91.0,90.2376,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.7,percentage,91.0,90.256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,7.8,percentage,91.0,90.256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,8.1,percentage,96.0,95.4688,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,9.5,percentage,97.0,96.095,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,9.6,percentage,97.0,96.1319,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,9.7,percentage,97.0,96.1319,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,9.8,percentage,97.0,96.1503,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,9.9,percentage,97.0,96.2977,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Ponta Grossa,10.0,percentage,97.0,96.3345,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,3.4,percentage,64.0,63.4483,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,3.6,percentage,74.0,73.1034,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,3.7,percentage,76.0,75.1724,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,3.8,percentage,85.0,84.1379,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,4.0,percentage,98.0,97.2414,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Praia de Belas,4.5,percentage,100.0,99.3103,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.3,percentage,1.0,0.396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.4,percentage,1.0,0.396,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.5,percentage,1.0,0.457,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.6,percentage,1.0,0.457,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.7,percentage,1.0,0.457,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,6.8,percentage,1.0,0.457,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,7.2,percentage,2.0,1.0663,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,7.3,percentage,2.0,1.112,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,7.4,percentage,2.0,1.2186,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,7.5,percentage,2.0,1.4318,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,7.6,percentage,2.0,1.4928,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,8.0,percentage,3.0,2.1021,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,8.1,percentage,3.0,2.2848,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,8.5,percentage,4.0,3.1226,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,8.6,percentage,4.0,3.2292,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,8.9,percentage,5.0,4.3412,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,9.4,percentage,8.0,7.2963,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,9.7,percentage,9.0,8.134,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,9.8,percentage,9.0,8.4539,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Rubem Berta,10.0,percentage,10.0,9.4288,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,5.7,percentage,2.0,1.1055,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,6.2,percentage,3.0,2.1106,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,6.3,percentage,3.0,2.1106,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,6.4,percentage,3.0,2.3116,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,6.6,percentage,4.0,3.1156,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,6.7,percentage,4.0,3.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,7.1,percentage,5.0,4.1206,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,7.2,percentage,5.0,4.4221,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,7.3,percentage,5.0,4.4221,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,7.5,percentage,8.0,7.0352,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,7.6,percentage,8.0,7.2362,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.0,percentage,9.0,8.0402,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.1,percentage,9.0,8.0402,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.2,percentage,10.0,9.0452,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.3,percentage,11.0,10.0503,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.4,percentage,11.0,10.2513,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.6,percentage,12.0,11.1558,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,8.9,percentage,14.0,13.1658,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.0,percentage,14.0,13.4673,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.3,percentage,17.0,16.3819,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.5,percentage,21.0,20.3015,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.7,percentage,22.0,21.3065,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.8,percentage,24.0,23.0151,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,9.9,percentage,25.0,24.2211,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Cecília,10.0,percentage,26.0,25.1256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.2,percentage,1.0,0.1115,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.3,percentage,1.0,0.1672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.4,percentage,1.0,0.1672,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.5,percentage,1.0,0.3344,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.7,percentage,2.0,1.2821,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,3.9,percentage,3.0,2.0067,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,4.0,percentage,3.0,2.4526,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,4.3,percentage,6.0,5.1282,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,4.5,percentage,11.0,10.3122,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,4.7,percentage,19.0,18.1717,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,4.8,percentage,23.0,22.0178,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,5.0,percentage,28.0,27.0346,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,5.4,percentage,45.0,44.3144,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,5.6,percentage,59.0,58.0825,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,5.7,percentage,63.0,62.3746,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,6.2,percentage,81.0,80.3233,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,6.5,percentage,90.0,89.3534,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,6.6,percentage,92.0,91.1929,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,6.9,percentage,95.0,94.4816,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,7.3,percentage,98.0,97.4359,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,7.5,percentage,99.0,98.3835,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,7.6,percentage,99.0,98.4392,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Maria Goretti,7.7,percentage,100.0,99.1639,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.0,percentage,1.0,0.0855,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.1,percentage,1.0,0.0855,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.2,percentage,1.0,0.0855,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.3,percentage,1.0,0.0932,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.4,percentage,1.0,0.1166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.5,percentage,1.0,0.1399,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.6,percentage,1.0,0.1943,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.7,percentage,1.0,0.1943,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.8,percentage,1.0,0.2098,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,3.9,percentage,1.0,0.4274,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,4.0,percentage,1.0,0.4662,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,4.7,percentage,2.0,1.1888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,4.8,percentage,2.0,1.3598,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,5.0,percentage,3.0,2.0591,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,5.1,percentage,3.0,2.4165,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,5.5,percentage,5.0,4.4988,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,5.7,percentage,7.0,6.0451,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,5.8,percentage,8.0,7.3193,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,6.3,percentage,13.0,12.3932,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,6.4,percentage,14.0,13.1158,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,6.6,percentage,15.0,14.3434,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,6.8,percentage,16.0,15.3691,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,7.2,percentage,18.0,17.467,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,7.3,percentage,19.0,18.0342,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,7.5,percentage,20.0,19.4639,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,7.8,percentage,22.0,21.0256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,8.1,percentage,23.0,22.3155,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,8.3,percentage,24.0,23.2945,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,8.6,percentage,26.0,25.4623,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,8.8,percentage,27.0,26.0917,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,8.9,percentage,27.0,26.418,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,9.1,percentage,28.0,27.3193,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,9.4,percentage,29.0,28.2051,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,9.6,percentage,30.0,29.0132,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,9.7,percentage,30.0,29.4328,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Rosa de Lima,9.9,percentage,31.0,30.2953,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.2,percentage,1.0,0.0063,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.3,percentage,1.0,0.0692,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.4,percentage,1.0,0.1823,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.5,percentage,1.0,0.1949,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.6,percentage,1.0,0.2452,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.7,percentage,1.0,0.3018,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.8,percentage,1.0,0.3584,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,3.9,percentage,1.0,0.4275,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,4.0,percentage,1.0,0.4652,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,4.1,percentage,1.0,0.4778,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,4.2,percentage,1.0,0.4841,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,4.3,percentage,1.0,0.4841,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,4.4,percentage,1.0,0.4904,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.2,percentage,2.0,1.0185,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.3,percentage,2.0,1.0248,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.4,percentage,2.0,1.0248,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.5,percentage,2.0,1.0499,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.6,percentage,2.0,1.1191,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.7,percentage,2.0,1.1505,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.8,percentage,2.0,1.1505,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,7.9,percentage,2.0,1.1505,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.0,percentage,2.0,1.1631,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.1,percentage,2.0,1.1631,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.2,percentage,2.0,1.1631,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.3,percentage,2.0,1.1631,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.4,percentage,2.0,1.1882,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.5,percentage,2.0,1.226,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.6,percentage,2.0,1.2322,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.7,percentage,2.0,1.2637,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.8,percentage,2.0,1.2951,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,8.9,percentage,2.0,1.3014,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.0,percentage,2.0,1.3014,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.1,percentage,2.0,1.314,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.2,percentage,2.0,1.314,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.3,percentage,2.0,1.3328,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.4,percentage,2.0,1.3454,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.5,percentage,2.0,1.3454,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.6,percentage,2.0,1.3454,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.7,percentage,2.0,1.3454,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.8,percentage,2.0,1.3643,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,9.9,percentage,2.0,1.3643,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santa Tereza,10.0,percentage,2.0,1.3706,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,5.7,percentage,11.0,10.0688,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,5.8,percentage,11.0,10.4539,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,5.9,percentage,12.0,11.1142,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,6.0,percentage,13.0,12.4347,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,6.5,percentage,21.0,20.0275,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,6.7,percentage,23.0,22.0083,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,6.9,percentage,26.0,25.0344,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,7.0,percentage,27.0,26.3549,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,7.1,percentage,29.0,28.2806,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,7.2,percentage,31.0,30.0688,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,7.5,percentage,37.0,36.1486,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,7.8,percentage,40.0,39.4773,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.2,percentage,47.0,46.0248,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.5,percentage,50.0,49.0509,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.6,percentage,52.0,51.1967,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.7,percentage,54.0,53.1224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.8,percentage,56.0,55.1857,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,8.9,percentage,58.0,57.2765,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,9.1,percentage,63.0,62.3384,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,9.2,percentage,65.0,64.2916,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,9.4,percentage,69.0,68.2256,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Santana,9.6,percentage,72.0,71.4993,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,3.1,percentage,17.0,16.0286,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,3.2,percentage,18.0,17.2048,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,3.3,percentage,19.0,18.2472,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,3.8,percentage,24.0,23.2334,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,3.9,percentage,25.0,24.2804,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.0,percentage,26.0,25.2906,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.1,percentage,27.0,26.3054,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.2,percentage,28.0,27.1587,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.3,percentage,29.0,28.4963,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.4,percentage,31.0,30.1384,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.7,percentage,36.0,35.203,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,4.9,percentage,39.0,38.4271,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,5.2,percentage,45.0,44.2712,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,5.3,percentage,47.0,46.167,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,5.4,percentage,48.0,47.3247,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,5.6,percentage,52.0,51.2362,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.0,percentage,58.0,57.3386,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.1,percentage,59.0,58.3303,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.2,percentage,60.0,59.0821,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.5,percentage,62.0,61.2869,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.8,percentage,64.0,63.4271,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,6.9,percentage,65.0,64.3035,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,7.0,percentage,66.0,65.06,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,7.2,percentage,67.0,66.2638,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,7.5,percentage,69.0,68.1458,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,7.7,percentage,70.0,69.3127,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,7.8,percentage,71.0,70.3137,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,8.0,percentage,72.0,71.1946,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,8.3,percentage,73.0,72.3939,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,8.5,percentage,74.0,73.0489,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,8.7,percentage,75.0,74.3173,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,9.0,percentage,76.0,75.2906,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,9.3,percentage,77.0,76.2223,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,9.6,percentage,78.0,77.2232,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,9.9,percentage,79.0,78.1319,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Sarandi,10.0,percentage,79.0,78.3902,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.1,percentage,17.0,16.337,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.3,percentage,19.0,18.3492,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.4,percentage,22.0,21.146,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.5,percentage,24.0,23.2947,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.8,percentage,30.0,29.2292,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,3.9,percentage,31.0,30.3206,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,4.2,percentage,35.0,34.2087,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,4.7,percentage,86.0,85.0955,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,4.9,percentage,87.0,86.2551,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,5.2,percentage,88.0,87.0737,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,5.3,percentage,88.0,87.3124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,5.6,percentage,90.0,89.0177,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,5.7,percentage,90.0,89.1201,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,5.8,percentage,90.0,89.4952,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,6.0,percentage,91.0,90.1432,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,6.1,percentage,91.0,90.2456,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,6.3,percentage,92.0,91.2347,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,6.8,percentage,93.0,92.292,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,6.9,percentage,93.0,92.3261,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,7.2,percentage,94.0,93.0082,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,7.3,percentage,94.0,93.4516,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,7.7,percentage,95.0,94.0996,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,7.8,percentage,95.0,94.236,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,8.1,percentage,96.0,95.2592,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,8.3,percentage,97.0,96.0778,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,8.4,percentage,97.0,96.4529,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,8.5,percentage,97.0,96.487,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,8.9,percentage,98.0,97.3056,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,9.0,percentage,98.0,97.3738,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,9.2,percentage,99.0,98.0559,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Serraria,9.3,percentage,99.0,98.3288,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.0,percentage,2.0,1.0124,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.1,percentage,2.0,1.0992,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.2,percentage,2.0,1.4463,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.3,percentage,4.0,3.4712,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.4,percentage,7.0,6.1325,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.5,percentage,11.0,10.4715,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,3.9,percentage,42.0,41.3653,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,4.1,percentage,59.0,58.085,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,4.2,percentage,64.0,63.1183,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,4.5,percentage,80.0,79.4041,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,4.7,percentage,85.0,84.1192,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,4.8,percentage,87.0,86.1441,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,5.1,percentage,90.0,89.1524,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,5.4,percentage,92.0,91.4955,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,5.5,percentage,93.0,92.3344,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,5.7,percentage,95.0,94.4461,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,6.0,percentage,96.0,95.2849,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,6.2,percentage,97.0,96.3552,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,6.4,percentage,98.0,97.1941,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,6.9,percentage,100.0,99.1033,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,7.0,percentage,100.0,99.4504,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Geraldo,7.1,percentage,100.0,99.4793,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,3.4,percentage,1.0,0.0311,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,3.6,percentage,2.0,1.1519,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,3.8,percentage,9.0,8.3126,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.0,percentage,17.0,16.4072,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.1,percentage,20.0,19.0224,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.3,percentage,24.0,23.1009,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.5,percentage,26.0,25.4359,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.8,percentage,32.0,31.0087,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,4.9,percentage,33.0,32.3163,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,5.1,percentage,35.0,34.122,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,5.4,percentage,36.0,35.3362,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,5.9,percentage,38.0,37.3288,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,6.2,percentage,39.0,38.3873,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,6.3,percentage,39.0,38.4807,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,6.5,percentage,40.0,39.0722,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,6.6,percentage,40.0,39.3836,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,6.8,percentage,41.0,40.3798,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,7.1,percentage,42.0,41.1893,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,7.4,percentage,43.0,42.4658,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,7.6,percentage,44.0,43.0573,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,7.7,percentage,44.0,43.1507,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,7.9,percentage,45.0,44.2403,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,8.1,percentage,47.0,46.1083,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,8.8,percentage,52.0,51.4321,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,8.9,percentage,53.0,52.0859,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,9.1,percentage,54.0,53.0511,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,9.3,percentage,55.0,54.4521,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,9.5,percentage,57.0,56.0399,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,9.8,percentage,59.0,58.406,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São João,10.0,percentage,61.0,60.0872,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,6.9,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.0,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.1,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.2,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.3,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.4,percentage,1.0,0.0497,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.5,percentage,1.0,0.0994,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.6,percentage,1.0,0.2981,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.7,percentage,1.0,0.3974,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,7.8,percentage,2.0,1.0432,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,9.0,percentage,5.0,4.0238,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,9.3,percentage,6.0,5.1664,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,São Sebastião,9.5,percentage,7.0,6.16,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,3.0,percentage,2.0,1.3699,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,3.1,percentage,2.0,1.4333,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,3.2,percentage,2.0,1.446,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.1,percentage,3.0,2.0548,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.2,percentage,3.0,2.1309,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.3,percentage,3.0,2.2704,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.6,percentage,4.0,3.1837,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.7,percentage,4.0,3.3739,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.8,percentage,4.0,3.45,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,4.9,percentage,4.0,3.4627,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.2,percentage,6.0,5.0736,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.3,percentage,6.0,5.137,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.4,percentage,6.0,5.2385,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.7,percentage,7.0,6.0629,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.8,percentage,7.0,6.2785,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,5.9,percentage,7.0,6.4181,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,6.2,percentage,8.0,7.3186,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,6.4,percentage,9.0,8.1304,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,6.5,percentage,9.0,8.4602,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,6.7,percentage,10.0,9.1324,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.0,percentage,11.0,10.1979,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.2,percentage,12.0,11.1111,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.3,percentage,12.0,11.4663,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.6,percentage,13.0,12.4049,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.7,percentage,13.0,12.4556,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,7.9,percentage,14.0,13.4323,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,8.1,percentage,15.0,14.3201,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,8.5,percentage,17.0,16.0452,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,8.6,percentage,17.0,16.3876,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,8.9,percentage,18.0,17.415,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,9.1,percentage,19.0,18.3409,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,9.5,percentage,22.0,21.106,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,9.7,percentage,23.0,22.2222,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Tristeza,9.8,percentage,23.0,22.4505,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,3.1,percentage,9.0,8.3279,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,3.6,percentage,10.0,9.3001,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,3.7,percentage,10.0,9.4621,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,4.0,percentage,11.0,10.3046,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,4.2,percentage,12.0,11.0175,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,4.3,percentage,12.0,11.1471,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.1,percentage,14.0,13.0914,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.2,percentage,14.0,13.1886,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.5,percentage,16.0,15.3921,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.6,percentage,16.0,15.4893,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.7,percentage,17.0,16.0078,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.8,percentage,17.0,16.0078,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,5.9,percentage,17.0,16.0726,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.0,percentage,17.0,16.4938,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.3,percentage,18.0,17.0123,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.4,percentage,18.0,17.2067,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.5,percentage,18.0,17.466,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.7,percentage,19.0,18.1141,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,6.8,percentage,19.0,18.4381,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.1,percentage,20.0,19.1834,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.4,percentage,21.0,20.2203,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.5,percentage,21.0,20.2528,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.6,percentage,21.0,20.3824,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.8,percentage,22.0,21.0305,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,7.9,percentage,22.0,21.2573,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,8.0,percentage,22.0,21.3545,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,8.2,percentage,23.0,22.0026,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,8.5,percentage,26.0,25.3727,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,8.9,percentage,28.0,27.0901,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,9.3,percentage,29.0,28.0298,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,9.7,percentage,30.0,29.1964,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Assunção,9.9,percentage,31.0,30.3305,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.0,percentage,3.0,2.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.1,percentage,3.0,2.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.2,percentage,3.0,2.3166,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.3,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.4,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.5,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.6,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.7,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,5.8,percentage,3.0,2.4453,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,6.5,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,6.6,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,6.7,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,6.8,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,6.9,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,7.0,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,7.1,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,7.2,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,7.3,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,7.4,percentage,4.0,3.0888,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,8.3,percentage,6.0,5.2767,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,8.4,percentage,6.0,5.2767,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,8.5,percentage,6.0,5.2767,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,9.1,percentage,7.0,6.0489,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,9.2,percentage,7.0,6.0489,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,9.3,percentage,7.0,6.0489,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,9.9,percentage,8.0,7.0785,recalculado sem arredondar; affected_population recalculada junto
+percentual_arredondado_para_cima,Vila Conceição,10.0,percentage,8.0,7.4646,recalculado sem arredondar; affected_population recalculada junto
+percentual_fora_da_regra,Boa Vista do Sul,7.2,percentage,29.0,28.0,recalculado: prédios afetados / total × 100
+percentual_fora_da_regra,Boa Vista do Sul,7.3,percentage,29.0,28.0,recalculado: prédios afetados / total × 100
+pico_isolado,Espírito Santo,4.7,affected_buildings,2101.0,46.0,interpolado entre os níveis vizinhos
+queda_para_zero,Centro Histórico,9.7,affected_buildings,0.0,2077.0,interpolado entre os níveis vizinhos
+queda_para_zero,Centro Histórico,9.8,affected_buildings,0.0,2103.0,interpolado entre os níveis vizinhos
+queda_para_zero,Lageado,8.1,affected_buildings,0.0,109.0,interpolado entre os níveis vizinhos
+queda_para_zero,Rubem Berta,8.8,affected_buildings,0.0,268.0,interpolado entre os níveis vizinhos

@@ -1,0 +1,77 @@
+tipo,codigo,leituras,inicio,fim,detalhe,tratamento
+data_posterior_a_coleta,87450004,48,2026-11-01 00:00:00,2026-12-01 23:00:00,coleta em 2026-10-26 20:37,descartada
+nivel_vazio,87444000,126,2024-05-03 00:00:00,2025-06-17 16:15:00,,descartada
+nivel_vazio,87450004,12081,2014-07-27 18:30:00,2026-10-22 16:00:00,,descartada
+nivel_vazio,87450020,193,2024-05-03 00:00:00,2026-06-03 13:15:00,,descartada
+pico_isolado,87450004,1,2017-03-16 10:45:00,2017-03-16 10:45:00,"174 cm, mediana em volta 113 cm",descartada
+pico_isolado,87450004,1,2017-03-17 06:45:00,2017-03-17 06:45:00,"171 cm, mediana em volta 110 cm",descartada
+pico_isolado,87450004,1,2017-03-19 09:30:00,2017-03-19 09:30:00,"194 cm, mediana em volta 139 cm",descartada
+pico_isolado,87450004,1,2017-03-19 10:00:00,2017-03-19 10:00:00,"194 cm, mediana em volta 139 cm",descartada
+pico_isolado,87450004,1,2017-03-24 05:45:00,2017-03-24 05:45:00,"228 cm, mediana em volta 107 cm",descartada
+pico_isolado,87450004,1,2017-03-25 06:45:00,2017-03-25 06:45:00,"168 cm, mediana em volta 110 cm",descartada
+pico_isolado,87450004,1,2017-03-25 07:15:00,2017-03-25 07:15:00,"289 cm, mediana em volta 109 cm",descartada
+pico_isolado,87450004,1,2017-03-25 09:00:00,2017-03-25 09:00:00,"163 cm, mediana em volta 102 cm",descartada
+pico_isolado,87450004,1,2017-03-25 11:00:00,2017-03-25 11:00:00,"163 cm, mediana em volta 101 cm",descartada
+pico_isolado,87450004,1,2017-03-26 07:30:00,2017-03-26 07:30:00,"228 cm, mediana em volta 108 cm",descartada
+pico_isolado,87450004,1,2017-03-29 09:30:00,2017-03-29 09:30:00,"222 cm, mediana em volta 79 cm",descartada
+pico_isolado,87450004,1,2017-04-06 08:45:00,2017-04-06 08:45:00,"133 cm, mediana em volta 65 cm",descartada
+pico_isolado,87450004,1,2017-04-11 12:15:00,2017-04-11 12:15:00,"112 cm, mediana em volta 41 cm",descartada
+pico_isolado,87450004,1,2017-04-11 13:15:00,2017-04-11 13:15:00,"184 cm, mediana em volta 41 cm",descartada
+pico_isolado,87450004,1,2017-04-11 13:30:00,2017-04-11 13:30:00,"185 cm, mediana em volta 41 cm",descartada
+pico_isolado,87450004,1,2017-04-11 13:45:00,2017-04-11 13:45:00,"113 cm, mediana em volta 41 cm",descartada
+pico_isolado,87450004,1,2017-04-12 10:45:00,2017-04-12 10:45:00,"145 cm, mediana em volta 80 cm",descartada
+pico_isolado,87450004,1,2017-04-15 06:45:00,2017-04-15 06:45:00,"202 cm, mediana em volta 68 cm",descartada
+pico_isolado,87450004,1,2017-04-23 12:15:00,2017-04-23 12:15:00,"137 cm, mediana em volta 72 cm",descartada
+pico_isolado,87450004,1,2017-04-23 12:30:00,2017-04-23 12:30:00,"138 cm, mediana em volta 73 cm",descartada
+pico_isolado,87450004,1,2017-04-23 13:15:00,2017-04-23 13:15:00,"73 cm, mediana em volta 106 cm",descartada
+pico_isolado,87450004,1,2017-04-26 09:45:00,2017-04-26 09:45:00,"121 cm, mediana em volta 52 cm",descartada
+pico_isolado,87450004,1,2017-05-06 12:30:00,2017-05-06 12:30:00,"381 cm, mediana em volta 80 cm",descartada
+pico_isolado,87450004,1,2017-05-15 13:30:00,2017-05-15 13:30:00,"390 cm, mediana em volta 99 cm",descartada
+pico_isolado,87450004,1,2017-05-17 08:45:00,2017-05-17 08:45:00,"158 cm, mediana em volta 103 cm",descartada
+pico_isolado,87450004,1,2017-06-13 11:15:00,2017-06-13 11:15:00,"273 cm, mediana em volta 233 cm",descartada
+pico_isolado,87450004,1,2017-06-14 14:30:00,2017-06-14 14:30:00,"262 cm, mediana em volta 230 cm",descartada
+pico_isolado,87450004,1,2017-06-20 07:45:00,2017-06-20 07:45:00,"291 cm, mediana em volta 202 cm",descartada
+pico_isolado,87450004,1,2017-06-20 14:30:00,2017-06-20 14:30:00,"241 cm, mediana em volta 196 cm",descartada
+pico_isolado,87450004,1,2017-06-21 11:00:00,2017-06-21 11:00:00,"219 cm, mediana em volta 182 cm",descartada
+pico_isolado,87450004,1,2017-06-22 10:45:00,2017-06-22 10:45:00,"169 cm, mediana em volta 211 cm",descartada
+pico_isolado,87450004,1,2017-06-22 11:00:00,2017-06-22 11:00:00,"181 cm, mediana em volta 224 cm",descartada
+pico_isolado,87450004,1,2019-05-25 12:15:00,2019-05-25 12:15:00,"179 cm, mediana em volta 143 cm",descartada
+pico_isolado,87450004,1,2019-05-25 12:30:00,2019-05-25 12:30:00,"178 cm, mediana em volta 138 cm",descartada
+pico_isolado,87450004,1,2019-05-25 13:30:00,2019-05-25 13:30:00,"172 cm, mediana em volta 136 cm",descartada
+pico_isolado,87450004,1,2019-05-29 11:00:00,2019-05-29 11:00:00,"216 cm, mediana em volta 166 cm",descartada
+pico_isolado,87450004,1,2019-06-04 12:45:00,2019-06-04 12:45:00,"202 cm, mediana em volta 158 cm",descartada
+pico_isolado,87450004,1,2019-06-05 10:45:00,2019-06-05 10:45:00,"214 cm, mediana em volta 164 cm",descartada
+pico_isolado,87450004,1,2019-06-05 11:00:00,2019-06-05 11:00:00,"221 cm, mediana em volta 167 cm",descartada
+pico_isolado,87450004,1,2019-06-05 12:30:00,2019-06-05 12:30:00,"184 cm, mediana em volta 150 cm",descartada
+pico_isolado,87450004,1,2019-06-09 13:00:00,2019-06-09 13:00:00,"150 cm, mediana em volta 118 cm",descartada
+pico_isolado,87450004,1,2019-06-17 10:15:00,2019-06-17 10:15:00,"122 cm, mediana em volta 90 cm",descartada
+pico_isolado,87450004,1,2019-06-19 12:30:00,2019-06-19 12:30:00,"202 cm, mediana em volta 145 cm",descartada
+pico_isolado,87450004,1,2019-06-19 13:00:00,2019-06-19 13:00:00,"258 cm, mediana em volta 145 cm",descartada
+pico_isolado,87450004,1,2019-06-19 13:15:00,2019-06-19 13:15:00,"221 cm, mediana em volta 145 cm",descartada
+pico_isolado,87450004,1,2019-06-19 13:30:00,2019-06-19 13:30:00,"217 cm, mediana em volta 145 cm",descartada
+pico_isolado,87450004,1,2019-06-20 08:45:00,2019-06-20 08:45:00,"162 cm, mediana em volta 108 cm",descartada
+pico_isolado,87450004,1,2019-06-20 09:45:00,2019-06-20 09:45:00,"150 cm, mediana em volta 100 cm",descartada
+pico_isolado,87450004,1,2019-06-20 12:30:00,2019-06-20 12:30:00,"194 cm, mediana em volta 142 cm",descartada
+pico_isolado,87450004,1,2019-06-20 12:45:00,2019-06-20 12:45:00,"172 cm, mediana em volta 113 cm",descartada
+pico_isolado,87450004,1,2019-06-20 13:00:00,2019-06-20 13:00:00,"177 cm, mediana em volta 110 cm",descartada
+pico_isolado,87450004,1,2019-06-21 11:15:00,2019-06-21 11:15:00,"205 cm, mediana em volta 160 cm",descartada
+pico_isolado,87450004,1,2019-06-21 12:15:00,2019-06-21 12:15:00,"247 cm, mediana em volta 206 cm",descartada
+pico_isolado,87450004,1,2019-06-22 13:15:00,2019-06-22 13:15:00,"115 cm, mediana em volta 84 cm",descartada
+pico_isolado,87450004,1,2019-06-23 12:15:00,2019-06-23 12:15:00,"117 cm, mediana em volta 86 cm",descartada
+pico_isolado,87450004,1,2019-06-26 12:00:00,2019-06-26 12:00:00,"186 cm, mediana em volta 150 cm",descartada
+pico_isolado,87450004,1,2019-06-26 12:30:00,2019-06-26 12:30:00,"115 cm, mediana em volta 158 cm",descartada
+pico_isolado,87450004,1,2019-06-26 13:30:00,2019-06-26 13:30:00,"216 cm, mediana em volta 131 cm",descartada
+pico_isolado,87450004,1,2019-06-26 13:45:00,2019-06-26 13:45:00,"192 cm, mediana em volta 124 cm",descartada
+pico_isolado,87450004,1,2019-06-27 12:15:00,2019-06-27 12:15:00,"235 cm, mediana em volta 268 cm",descartada
+pico_isolado,87450004,1,2019-06-27 13:15:00,2019-06-27 13:15:00,"304 cm, mediana em volta 268 cm",descartada
+pico_isolado,87450004,1,2026-04-01 13:00:00,2026-04-01 13:00:00,"133 cm, mediana em volta 58 cm",descartada
+pico_isolado,87450004,1,2026-05-01 17:00:00,2026-05-01 17:00:00,"127 cm, mediana em volta 89 cm",descartada
+pico_isolado,87450004,1,2026-08-01 16:00:00,2026-08-01 16:00:00,"113 cm, mediana em volta 244 cm",descartada
+pico_isolado,87450004,1,2026-08-01 17:15:00,2026-08-01 17:15:00,"242 cm, mediana em volta 115 cm",descartada
+pico_isolado,87450004,1,2026-08-01 19:00:00,2026-08-01 19:00:00,"113 cm, mediana em volta 243 cm",descartada
+sensor_travado,87450004,621,2015-10-14 00:00:00,2015-10-20 00:00:00,7 dias parados em ~273 cm,dias descartados
+sensor_travado,87450004,3924,2015-10-22 00:00:00,2015-12-03 00:00:00,43 dias parados em ~267 cm,dias descartados
+sensor_travado,87450004,4956,2015-12-05 00:00:00,2016-01-27 00:00:00,54 dias parados em ~97 cm,dias descartados
+nivel_negativo,87450020,449,2024-11-25 01:45:00,2026-04-16 11:30:00,mínimo -19 cm,mantida: nível relativo ao zero da régua
+mes_bruto_e_consistido,87450000,275,1929-08-01 00:00:00,1952-09-01 00:00:00,275 meses,fica a versão consistida
+periodo_alem_do_inventario,87450000,396,1952-12-01 00:00:00,1980-12-31 00:00:00,o inventário indica o fim da escala antes da última leitura,mantida e documentada
