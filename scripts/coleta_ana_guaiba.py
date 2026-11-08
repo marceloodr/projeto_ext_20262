@@ -3,6 +3,11 @@
 Fonte: Agência Nacional de Águas e Saneamento Básico (ANA)
 Serviço: https://telemetriaws1.ana.gov.br/ServiceANA.asmx (não exige cadastro)
 
+Fonte secundária: a coleta principal usa a API HidroWebService
+(scripts/coleta_ana_hidroweb.py). Este script e os dados dele ficam no
+repositório para conferência e como alternativa caso a API fique indisponível.
+Os dois serviços trazem os mesmos valores.
+
 Baixa e guarda as respostas XML como vieram, sem nenhum tratamento, em
 dados/originais/ana/. Arquivos já baixados não são requisitados de novo
 (exceto o ano corrente das séries telemétricas), para não sobrecarregar o

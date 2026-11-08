@@ -1,8 +1,7 @@
 tipo,codigo,leituras,inicio,fim,detalhe,tratamento
-data_posterior_a_coleta,87450004,48,2026-11-01 00:00:00,2026-12-01 23:00:00,coleta em 2026-10-26 20:37,descartada
 nivel_vazio,87444000,126,2024-05-03 00:00:00,2025-06-17 16:15:00,,descartada
 nivel_vazio,87450004,12081,2014-07-27 18:30:00,2026-10-22 16:00:00,,descartada
-nivel_vazio,87450020,193,2024-05-03 00:00:00,2026-06-03 13:15:00,,descartada
+nivel_vazio,87450020,198,2024-05-03 00:00:00,2026-11-05 15:15:00,,descartada
 pico_isolado,87450004,1,2017-03-16 10:45:00,2017-03-16 10:45:00,"174 cm, mediana em volta 113 cm",descartada
 pico_isolado,87450004,1,2017-03-17 06:45:00,2017-03-17 06:45:00,"171 cm, mediana em volta 110 cm",descartada
 pico_isolado,87450004,1,2017-03-19 09:30:00,2017-03-19 09:30:00,"194 cm, mediana em volta 139 cm",descartada
@@ -69,9 +68,11 @@ pico_isolado,87450004,1,2026-05-01 17:00:00,2026-05-01 17:00:00,"127 cm, mediana
 pico_isolado,87450004,1,2026-08-01 16:00:00,2026-08-01 16:00:00,"113 cm, mediana em volta 244 cm",descartada
 pico_isolado,87450004,1,2026-08-01 17:15:00,2026-08-01 17:15:00,"242 cm, mediana em volta 115 cm",descartada
 pico_isolado,87450004,1,2026-08-01 19:00:00,2026-08-01 19:00:00,"113 cm, mediana em volta 243 cm",descartada
+pico_isolado,87450004,1,2026-11-01 00:00:00,2026-11-01 00:00:00,"86 cm, mediana em volta 121 cm",descartada
 sensor_travado,87450004,621,2015-10-14 00:00:00,2015-10-20 00:00:00,7 dias parados em ~273 cm,dias descartados
 sensor_travado,87450004,3924,2015-10-22 00:00:00,2015-12-03 00:00:00,43 dias parados em ~267 cm,dias descartados
 sensor_travado,87450004,4956,2015-12-05 00:00:00,2016-01-27 00:00:00,54 dias parados em ~97 cm,dias descartados
 nivel_negativo,87450020,449,2024-11-25 01:45:00,2026-04-16 11:30:00,mínimo -19 cm,mantida: nível relativo ao zero da régua
 mes_bruto_e_consistido,87450000,275,1929-08-01 00:00:00,1952-09-01 00:00:00,275 meses,fica a versão consistida
+mes_com_versoes_repetidas,87450000,12,1980-01-01 00:00:00,1980-12-01 00:00:00,12 meses com 2 versões; nenhum campo indica a correta,média diária das versões
 periodo_alem_do_inventario,87450000,396,1952-12-01 00:00:00,1980-12-31 00:00:00,o inventário indica o fim da escala antes da última leitura,mantida e documentada
