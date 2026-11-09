@@ -4,3 +4,15 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Dados de gastos públicos
+dados_2024/
+dados_2025/
+dados_2026/
+dados_tratados/
+resultados/
+validacao/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
