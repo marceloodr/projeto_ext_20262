@@ -1,7 +1,8 @@
 """Limpeza da simulação de enchentes do INCT SiMAI (data.json).
 
 Entrada:  dados/originais/inct/data.json
-Saídas:   dados/processados/inct_longo_limpo.csv      (uma linha por nível e bairro)
+Saídas:   dados/processados/inct_longo_limpo.json     (uma linha por nível e bairro; usado pelo dashboard)
+          dados/processados/inct_longo_limpo.csv      (mesmo conteúdo, para abrir em planilha)
           dados/processados/inct_inconsistencias.csv  (registro de cada problema e do tratamento)
 
 Uso:
@@ -28,6 +29,7 @@ import pandas as pd
 RAIZ = Path(__file__).resolve().parents[1]
 ENTRADA = RAIZ / "dados" / "originais" / "inct" / "data.json"
 SAIDA_DADOS = RAIZ / "dados" / "processados" / "inct_longo_limpo.csv"
+SAIDA_JSON = SAIDA_DADOS.with_suffix(".json")
 SAIDA_LOG = RAIZ / "dados" / "processados" / "inct_inconsistencias.csv"
 
 LIMIAR_PICO = 0.10    # pico isolado: > 10% dos prédios do bairro acima dos vizinhos
@@ -168,6 +170,7 @@ def main():
 
     SAIDA_DADOS.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(SAIDA_DADOS, index=False)
+    df.to_json(SAIDA_JSON, orient="records", force_ascii=False, indent=1)
     log = pd.DataFrame(registro).sort_values(["tipo", "bairro", "nivel_m"], na_position="first")
     log.to_csv(SAIDA_LOG, index=False)
 
@@ -180,7 +183,7 @@ def main():
     print(cidade.loc[[3.0, 4.0, 5.0, 5.3, 6.0, 8.0, 10.0]].to_string())
     quedas = (cidade["affected_population"].diff() < 0).sum()
     print(f"\nNíveis em que a população afetada da cidade cai: {quedas}")
-    print(f"\nSalvo: {SAIDA_DADOS.relative_to(RAIZ)} e {SAIDA_LOG.relative_to(RAIZ)}")
+    print(f"\nSalvo: {SAIDA_JSON.relative_to(RAIZ)}, {SAIDA_DADOS.relative_to(RAIZ)} e {SAIDA_LOG.relative_to(RAIZ)}")
 
 
 if __name__ == "__main__":
