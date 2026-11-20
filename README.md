@@ -39,6 +39,19 @@ python scripts/limpeza_ana.py
 
 Abra `notebooks/eda.ipynb`, que lê apenas os arquivos de `dados/processados/`.
 
+### 4. Dashboard
+
+```bash
+streamlit run app/app.py
+```
+
+Abre em http://localhost:8501. O app lê apenas os arquivos de `dados/processados/`.
+
+- **Tela 1** (`app/tela1_simulacao.py`): simulação do INCT, com controle do nível de 3,0 m a 10,0 m.
+- **Tela 2** (`app/tela2_guaiba.py`): nível do Guaíba ao longo dos anos (ANA), com filtro de período e de estações e ligação com a Tela 1 pela cheia de 2024. Os gastos estaduais com prevenção ainda vão entrar nesta tela.
+
+Para publicar no Streamlit Community Cloud, use `app/app.py` como arquivo principal.
+
 ## Fontes de dados
 
 | Base | Fonte | Coleta | Dados brutos |
@@ -71,6 +84,7 @@ Cada régua tem o seu próprio zero, por isso os níveis de estações diferente
 │   └── processados/    # dados limpos usados na EDA e no dashboard
 ├── scripts/            # coleta e limpeza
 ├── notebooks/          # EDA
+├── app/                # código do dashboard (Streamlit)
 └── relatorios/         # relatórios das entregas
 ```
 
