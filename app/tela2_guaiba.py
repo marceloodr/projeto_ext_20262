@@ -197,6 +197,141 @@ else:
         "adotadas pelo grupo e das limitações da coleta."
     )
 
+    # ----------------------------------------------------------
+    # Comparação entre despesas e frequência de inundações
+
+    st.divider()
+    st.subheader("Gastos estaduais x frequência de inundações")
+    st.caption(
+        "Comparação anual entre os pagamentos selecionados "
+        "para prevenção e proteção e os dias com nível do Guaíba "
+        "igual ou superior a 3,00 m no Cais Mauá C6."
+    )
+
+    # Conta os dias com leitura válida e os dias de inundação
+    nivel_ano = cm.groupby(cm.index.year).agg(
+        dias_com_leitura="size",
+        dias_inundacao=lambda serie: int(
+            (serie >= COTA_INUNDACAO).sum()
+        )
+    )
+
+    nivel_ano.index.name = "Ano"
+    nivel_ano = nivel_ano.reset_index()
+
+    # Junta os dados financeiros com os dados do Guaíba
+    comparacao = filtrado.merge(
+        nivel_ano,
+        on="Ano",
+        how="left"
+    ).sort_values("Ano")
+
+    # Anos sem leitura não devem ser tratados como zero
+    comparacao["dias_inundacao"] = comparacao[
+        "dias_inundacao"
+    ].astype(float)
+
+    # Gráfico superior: pagamentos
+    fig_gastos = go.Figure()
+
+    fig_gastos.add_trace(go.Bar(
+        x=comparacao["Ano"].astype(str),
+        y=comparacao["Total"] / 1_000_000,
+        name="Pagamentos",
+        marker_color=AZUL,
+        hovertemplate=(
+            "Ano: %{x}<br>"
+            "Pagamentos: R$ %{y:,.2f} milhões"
+            "<extra></extra>"
+        )
+    ))
+
+    fig_gastos.update_layout(
+        title="Pagamentos em prevenção e proteção",
+        showlegend=False
+    )
+    fig_gastos.update_yaxes(title="R$ milhões")
+    fig_gastos.update_xaxes(type="category")
+
+    st.plotly_chart(
+        dados.estilo(fig_gastos, 300),
+        width="stretch"
+    )
+
+    # Gráfico inferior: dias de inundação
+    fig_inundacoes = go.Figure()
+
+    fig_inundacoes.add_trace(go.Bar(
+        x=comparacao["Ano"].astype(str),
+        y=comparacao["dias_inundacao"],
+        name="Dias de inundação",
+        marker_color=LARANJA,
+        customdata=comparacao[["dias_com_leitura"]],
+        hovertemplate=(
+            "Ano: %{x}<br>"
+            "Dias com inundação: %{y:.0f}<br>"
+            "Dias com leitura: %{customdata[0]:.0f}"
+            "<extra></extra>"
+        )
+    ))
+
+    fig_inundacoes.update_layout(
+        title="Dias com nível igual ou superior a 3,00 m",
+        showlegend=False
+    )
+    fig_inundacoes.update_yaxes(
+        title="Dias",
+        rangemode="tozero"
+    )
+    fig_inundacoes.update_xaxes(type="category")
+
+    st.plotly_chart(
+        dados.estilo(fig_inundacoes, 300),
+        width="stretch"
+    )
+
+    # Tabela conjunta para facilitar a análise
+    st.subheader("Resumo comparativo por ano")
+
+    tabela_comparativa = comparacao[[
+        "Ano", "Total", "dias_inundacao", "dias_com_leitura"
+    ]].copy()
+
+    tabela_comparativa["Total"] = (
+        tabela_comparativa["Total"] / 1_000_000
+    )
+
+    st.dataframe(
+        tabela_comparativa,
+        hide_index=True,
+        width="stretch",
+        column_config={
+            "Ano": st.column_config.NumberColumn(
+                "Ano", format="%d"
+            ),
+            "Total": st.column_config.NumberColumn(
+                "Pagamentos (R$ milhões)", format="%.2f"
+            ),
+            "dias_inundacao": st.column_config.NumberColumn(
+                "Dias de inundação", format="%.0f"
+            ),
+            "dias_com_leitura": st.column_config.NumberColumn(
+                "Dias com leitura", format="%.0f"
+            )
+        }
+    )
+
+    st.warning(
+        "**Limitações da comparação:** a régua do Cais Mauá "
+        "ficou sem leituras entre maio de 2024 e junho de 2025. "
+        "Portanto, os dias de inundação nesses anos podem estar "
+        "subestimados. Os gastos de 2026 também são parciais. "
+        "Os pagamentos não comprovam a execução das obras, "
+        "e a comparação não estabelece relação de causa e efeito.",
+        icon="⚠️"
+    )
+
+
 
 # ------------------------------------------------------------------ Fontes
 st.divider()
