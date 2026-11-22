@@ -104,9 +104,99 @@ with direita:
     st.caption("5,3 m é o nível da simulação mais próximo do pico registrado (5,35 m).")
 
 # ------------------------------------------------------------------ Gastos (em preparação)
+
+# ------------------------------------------------------------------ Gastos do Estado
+from pathlib import Path
+
 st.subheader("Gastos do Estado com prevenção de enchentes")
-st.info("Em preparação: despesas pagas pelo Governo do RS em obras, estudos e transferências de prevenção de "
-        "enchentes (Portal da Transparência RS, 2020–2026).", icon="🛠️")
+st.caption("Pagamentos selecionados do Governo do RS entre 2020 e 2026.")
+
+raiz = Path(__file__).resolve().parents[1]
+arquivo = raiz / "resumo_anual_prevencao_enchentes_2020_2026.csv"
+
+if not arquivo.exists():
+    st.warning("Arquivo CSV de despesas não encontrado na raiz do projeto.")
+else:
+    gastos = pd.read_csv(arquivo, sep=";", encoding="utf-8-sig")
+
+    colunas = ["Obras", "Estudos", "Transferencias", "Total"]
+
+    def converter_valor(coluna):
+        texto = coluna.astype(str).str.strip()
+        texto = texto.str.replace("R$", "", regex=False)
+        texto = texto.str.replace(" ", "", regex=False)
+        texto = texto.str.replace(".", "", regex=False)
+        texto = texto.str.replace(",", ".", regex=False)
+        return pd.to_numeric(texto, errors="raise")
+
+    for coluna in colunas:
+        gastos[coluna] = converter_valor(gastos[coluna])
+
+    gastos["Ano"] = gastos["Ano"].astype(int)
+
+    anos = sorted(gastos["Ano"].unique())
+    periodo = st.slider(
+        "Período dos gastos",
+        min_value=min(anos),
+        max_value=max(anos),
+        value=(min(anos), max(anos))
+    )
+
+    filtrado = gastos[
+        gastos["Ano"].between(periodo[0], periodo[1])
+    ].copy()
+
+    total = filtrado["Total"].sum()
+    obras = filtrado["Obras"].sum()
+    transferencias = filtrado["Transferencias"].sum()
+
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Total selecionado", f"R$ {formatar(total / 1e6, 2)} mi")
+    c2.metric("Obras de prevenção", f"R$ {formatar(obras / 1e6, 2)} mi")
+    c3.metric("Transferências", f"R$ {formatar(transferencias / 1e6, 2)} mi")
+
+    st.subheader("Evolução anual dos pagamentos")
+
+    fig = go.Figure()
+    for coluna, nome, cor in [
+        ("Obras", "Obras de prevenção", AZUL),
+        ("Estudos", "Estudos e projetos", "#1baf7a"),
+        ("Transferencias", "Transferências para proteção", LARANJA)
+    ]:
+        fig.add_trace(go.Bar(
+            x=filtrado["Ano"].astype(str),
+            y=filtrado[coluna] / 1e6,
+            name=nome,
+            marker_color=cor
+        ))
+
+    fig.update_layout(barmode="stack")
+    fig.update_yaxes(title="Pagamentos (R$ milhões)")
+    fig.update_xaxes(title="Ano", type="category")
+    st.plotly_chart(dados.estilo(fig, 400), width="stretch")
+
+    st.subheader("Detalhamento anual")
+    tabela = filtrado.rename(columns={
+        "Transferencias": "Transferências"
+    })
+    st.dataframe(
+        tabela.style.format({
+            "Obras": "R$ {:,.2f}",
+            "Estudos": "R$ {:,.2f}",
+            "Transferências": "R$ {:,.2f}",
+            "Total": "R$ {:,.2f}"
+        }),
+        hide_index=True,
+        width="stretch"
+    )
+
+    st.caption(
+        "Fonte: Portal da Transparência RS. Valores nominais. "
+        "2026 possui dados parciais. Transferências não comprovam "
+        "a execução das obras. A seleção depende das regras de classificação "
+        "adotadas pelo grupo e das limitações da coleta."
+    )
+
 
 # ------------------------------------------------------------------ Fontes
 st.divider()
