@@ -7,10 +7,11 @@ Usa as séries da ANA coletadas por código (scripts/coleta_ana_hidroweb.py) e l
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
+from plotly.subplots import make_subplots
 
 import dados
-from dados import (AZUL, CAIS_MAUA, CINZA, COTA_ALERTA, COTA_INUNDACAO, ESTACOES, LARANJA, PICO_2024, TEXTO_2,
-                   formatar)
+from dados import (AZUL, AZUL_CLARO, CAIS_MAUA, CINZA, COTA_ALERTA, COTA_INUNDACAO, ESTACOES, LARANJA, PICO_2024,
+                   TEXTO_2, VERDE_AGUA, formatar)
 
 diario = dados.nivel_diario()
 coleta = dados.data_coleta_ana()
@@ -103,235 +104,76 @@ with direita:
         st.switch_page("tela1_simulacao.py")
     st.caption("5,3 m é o nível da simulação mais próximo do pico registrado (5,35 m).")
 
-# ------------------------------------------------------------------ Gastos (em preparação)
-
-# ------------------------------------------------------------------ Gastos do Estado
-from pathlib import Path
-
+# ------------------------------------------------------------------ Gastos do Estado x inundações
+st.divider()
 st.subheader("Gastos do Estado com prevenção de enchentes")
-st.caption("Pagamentos selecionados do Governo do RS entre 2020 e 2026.")
+st.caption("Pagamentos do Governo do RS em obras, estudos e transferências para proteção contra cheias, "
+           "comparados com os dias em que o Guaíba passou da cota de inundação no Cais Mauá.")
 
-raiz = Path(__file__).resolve().parents[1]
-arquivo = raiz / "resumo_anual_prevencao_enchentes_2020_2026.csv"
+gastos = dados.gastos()
+g_ini, g_fim = st.slider("Período dos gastos", min_value=int(gastos["Ano"].min()), max_value=int(gastos["Ano"].max()),
+                         value=(int(gastos["Ano"].min()), int(gastos["Ano"].max())))
+filtrado = gastos[gastos["Ano"].between(g_ini, g_fim)].copy()
 
-if not arquivo.exists():
-    st.warning("Arquivo CSV de despesas não encontrado na raiz do projeto.")
-else:
-    gastos = pd.read_csv(arquivo, sep=";", encoding="utf-8-sig")
+c1, c2, c3 = st.columns(3)
+c1.metric("Total pago no período", f"R$ {formatar(filtrado['Total'].sum() / 1e6, 2)} mi")
+c2.metric("Obras de prevenção", f"R$ {formatar(filtrado['Obras'].sum() / 1e6, 2)} mi")
+c3.metric("Transferências para proteção", f"R$ {formatar(filtrado['Transferencias'].sum() / 1e6, 2)} mi")
 
-    colunas = ["Obras", "Estudos", "Transferencias", "Total"]
+# Dias de inundação de cada ano no Cais Mauá (ano inteiro, independente do filtro de período do Guaíba)
+inundacao_ano = cm.groupby(cm.index.year).agg(
+    com_dado="size",
+    inundacao=lambda s: int((s >= COTA_INUNDACAO).sum()),
+)
+filtrado = filtrado.join(inundacao_ano, on="Ano")
+rotulos = [f"{a}*" if (n < 300 or a == 2026) else str(a) for a, n in zip(filtrado["Ano"], filtrado["com_dado"])]
 
-    def converter_valor(coluna):
-        texto = coluna.astype(str).str.strip()
-        texto = texto.str.replace("R$", "", regex=False)
-        texto = texto.str.replace(" ", "", regex=False)
-        texto = texto.str.replace(".", "", regex=False)
-        texto = texto.str.replace(",", ".", regex=False)
-        return pd.to_numeric(texto, errors="raise")
+# Dois painéis alinhados pelo ano: os valores têm escalas muito diferentes, então cada um ganha o seu eixo
+fig = make_subplots(rows=2, cols=1, shared_xaxes=True, row_heights=[0.68, 0.32], vertical_spacing=0.12,
+                    subplot_titles=("Pagamentos (R$ milhões)", "Dias com o Guaíba acima de 3,00 m no Cais Mauá"))
+for coluna, nome, cor in [("Obras", "Obras de prevenção", AZUL),
+                          ("Transferencias", "Transferências para proteção", AZUL_CLARO),
+                          ("Estudos", "Estudos e projetos", VERDE_AGUA)]:
+    fig.add_trace(go.Bar(x=rotulos, y=filtrado[coluna] / 1e6, name=nome, marker_color=cor,
+                         hovertemplate=f"{nome}<br>%{{x}}: R$ %{{y:,.2f}} mi<extra></extra>"), row=1, col=1)
+# Total escrito acima de cada barra, para que os anos com valores pequenos também possam ser lidos
+fig.add_trace(go.Scatter(x=rotulos, y=filtrado["Total"] / 1e6, mode="text", showlegend=False, hoverinfo="skip",
+                         text=[f"R$ {formatar(v / 1e6, 1)} mi" for v in filtrado["Total"]],
+                         textposition="top center", textfont=dict(color=TEXTO_2, size=12)), row=1, col=1)
+fig.add_trace(go.Bar(x=rotulos, y=filtrado["inundacao"], name="Dias acima de 3,00 m", marker_color=LARANJA,
+                     showlegend=False, text=filtrado["inundacao"], textposition="outside", cliponaxis=False,
+                     textfont=dict(color=LARANJA), customdata=filtrado["com_dado"],
+                     hovertemplate="%{x}: %{y} dias acima de 3,00 m<br>(%{customdata} dias com leitura)"
+                                   "<extra></extra>"), row=2, col=1)
+fig.update_layout(barmode="stack", bargap=0.3, legend_traceorder="normal")
+fig.update_xaxes(type="category", title=None)
+fig.update_yaxes(rangemode="tozero", range=[0, filtrado["Total"].max() / 1e6 * 1.15], row=1, col=1)
+fig.update_yaxes(range=[0, max(filtrado["inundacao"].max(), 1) * 1.35], dtick=2, row=2, col=1)
+fig.update_annotations(font=dict(size=13, color=TEXTO_2), xanchor="left", x=0)
+dados.estilo(fig, 540)
+fig.update_layout(margin=dict(t=70), legend=dict(y=1.06))   # legenda acima do título do primeiro painel
+st.plotly_chart(fig, width="stretch", config={"displayModeBar": False})
+st.caption("\\* 2024 e 2025 têm a lacuna da régua destruída, então os dias de inundação podem estar subestimados; "
+           "2026 tem gastos e leituras parciais.")
 
-    for coluna in colunas:
-        gastos[coluna] = converter_valor(gastos[coluna])
+tabela = pd.DataFrame({
+    "Ano": rotulos,
+    "Obras": filtrado["Obras"].map(lambda v: f"R$ {formatar(v, 2)}"),
+    "Estudos e projetos": filtrado["Estudos"].map(lambda v: f"R$ {formatar(v, 2)}"),
+    "Transferências": filtrado["Transferencias"].map(lambda v: f"R$ {formatar(v, 2)}"),
+    "Total": filtrado["Total"].map(lambda v: f"R$ {formatar(v, 2)}"),
+    "Dias acima de 3,00 m": filtrado["inundacao"],
+    "Dias com leitura": filtrado["com_dado"],
+})
+with st.expander("Ver valores por ano"):
+    st.dataframe(tabela, hide_index=True, width="stretch")
 
-    gastos["Ano"] = gastos["Ano"].astype(int)
-
-    anos = sorted(gastos["Ano"].unique())
-    periodo = st.slider(
-        "Período dos gastos",
-        min_value=min(anos),
-        max_value=max(anos),
-        value=(min(anos), max(anos))
-    )
-
-    filtrado = gastos[
-        gastos["Ano"].between(periodo[0], periodo[1])
-    ].copy()
-
-    total = filtrado["Total"].sum()
-    obras = filtrado["Obras"].sum()
-    transferencias = filtrado["Transferencias"].sum()
-
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Total selecionado", f"R$ {formatar(total / 1e6, 2)} mi")
-    c2.metric("Obras de prevenção", f"R$ {formatar(obras / 1e6, 2)} mi")
-    c3.metric("Transferências", f"R$ {formatar(transferencias / 1e6, 2)} mi")
-
-    st.subheader("Evolução anual dos pagamentos")
-
-    fig = go.Figure()
-    for coluna, nome, cor in [
-        ("Obras", "Obras de prevenção", AZUL),
-        ("Estudos", "Estudos e projetos", "#1baf7a"),
-        ("Transferencias", "Transferências para proteção", LARANJA)
-    ]:
-        fig.add_trace(go.Bar(
-            x=filtrado["Ano"].astype(str),
-            y=filtrado[coluna] / 1e6,
-            name=nome,
-            marker_color=cor
-        ))
-
-    fig.update_layout(barmode="stack")
-    fig.update_yaxes(title="Pagamentos (R$ milhões)")
-    fig.update_xaxes(title="Ano", type="category")
-    st.plotly_chart(dados.estilo(fig, 400), width="stretch")
-
-    st.subheader("Detalhamento anual")
-    tabela = filtrado.rename(columns={
-        "Transferencias": "Transferências"
-    })
-    st.dataframe(
-        tabela.style.format({
-            "Obras": "R$ {:,.2f}",
-            "Estudos": "R$ {:,.2f}",
-            "Transferências": "R$ {:,.2f}",
-            "Total": "R$ {:,.2f}"
-        }),
-        hide_index=True,
-        width="stretch"
-    )
-
-    st.caption(
-        "Fonte: Portal da Transparência RS. Valores nominais. "
-        "2026 possui dados parciais. Transferências não comprovam "
-        "a execução das obras. A seleção depende das regras de classificação "
-        "adotadas pelo grupo e das limitações da coleta."
-    )
-
-    # ----------------------------------------------------------
-    # Comparação entre despesas e frequência de inundações
-
-    st.divider()
-    st.subheader("Gastos estaduais x frequência de inundações")
-    st.caption(
-        "Comparação anual entre os pagamentos selecionados "
-        "para prevenção e proteção e os dias com nível do Guaíba "
-        "igual ou superior a 3,00 m no Cais Mauá C6."
-    )
-
-    # Conta os dias com leitura válida e os dias de inundação
-    nivel_ano = cm.groupby(cm.index.year).agg(
-        dias_com_leitura="size",
-        dias_inundacao=lambda serie: int(
-            (serie >= COTA_INUNDACAO).sum()
-        )
-    )
-
-    nivel_ano.index.name = "Ano"
-    nivel_ano = nivel_ano.reset_index()
-
-    # Junta os dados financeiros com os dados do Guaíba
-    comparacao = filtrado.merge(
-        nivel_ano,
-        on="Ano",
-        how="left"
-    ).sort_values("Ano")
-
-    # Anos sem leitura não devem ser tratados como zero
-    comparacao["dias_inundacao"] = comparacao[
-        "dias_inundacao"
-    ].astype(float)
-
-    # Gráfico superior: pagamentos
-    fig_gastos = go.Figure()
-
-    fig_gastos.add_trace(go.Bar(
-        x=comparacao["Ano"].astype(str),
-        y=comparacao["Total"] / 1_000_000,
-        name="Pagamentos",
-        marker_color=AZUL,
-        hovertemplate=(
-            "Ano: %{x}<br>"
-            "Pagamentos: R$ %{y:,.2f} milhões"
-            "<extra></extra>"
-        )
-    ))
-
-    fig_gastos.update_layout(
-        title="Pagamentos em prevenção e proteção",
-        showlegend=False
-    )
-    fig_gastos.update_yaxes(title="R$ milhões")
-    fig_gastos.update_xaxes(type="category")
-
-    st.plotly_chart(
-        dados.estilo(fig_gastos, 300),
-        width="stretch"
-    )
-
-    # Gráfico inferior: dias de inundação
-    fig_inundacoes = go.Figure()
-
-    fig_inundacoes.add_trace(go.Bar(
-        x=comparacao["Ano"].astype(str),
-        y=comparacao["dias_inundacao"],
-        name="Dias de inundação",
-        marker_color=LARANJA,
-        customdata=comparacao[["dias_com_leitura"]],
-        hovertemplate=(
-            "Ano: %{x}<br>"
-            "Dias com inundação: %{y:.0f}<br>"
-            "Dias com leitura: %{customdata[0]:.0f}"
-            "<extra></extra>"
-        )
-    ))
-
-    fig_inundacoes.update_layout(
-        title="Dias com nível igual ou superior a 3,00 m",
-        showlegend=False
-    )
-    fig_inundacoes.update_yaxes(
-        title="Dias",
-        rangemode="tozero"
-    )
-    fig_inundacoes.update_xaxes(type="category")
-
-    st.plotly_chart(
-        dados.estilo(fig_inundacoes, 300),
-        width="stretch"
-    )
-
-    # Tabela conjunta para facilitar a análise
-    st.subheader("Resumo comparativo por ano")
-
-    tabela_comparativa = comparacao[[
-        "Ano", "Total", "dias_inundacao", "dias_com_leitura"
-    ]].copy()
-
-    tabela_comparativa["Total"] = (
-        tabela_comparativa["Total"] / 1_000_000
-    )
-
-    st.dataframe(
-        tabela_comparativa,
-        hide_index=True,
-        width="stretch",
-        column_config={
-            "Ano": st.column_config.NumberColumn(
-                "Ano", format="%d"
-            ),
-            "Total": st.column_config.NumberColumn(
-                "Pagamentos (R$ milhões)", format="%.2f"
-            ),
-            "dias_inundacao": st.column_config.NumberColumn(
-                "Dias de inundação", format="%.0f"
-            ),
-            "dias_com_leitura": st.column_config.NumberColumn(
-                "Dias com leitura", format="%.0f"
-            )
-        }
-    )
-
-    st.warning(
-        "**Limitações da comparação:** a régua do Cais Mauá "
-        "ficou sem leituras entre maio de 2024 e junho de 2025. "
-        "Portanto, os dias de inundação nesses anos podem estar "
-        "subestimados. Os gastos de 2026 também são parciais. "
-        "Os pagamentos não comprovam a execução das obras, "
-        "e a comparação não estabelece relação de causa e efeito.",
-        icon="⚠️"
-    )
-
-
+st.warning(
+    "**Limitações:** os valores são nominais (sem correção pela inflação) e dependem das ações orçamentárias "
+    "que o grupo classificou como prevenção. Pagamento e transferência não comprovam que a obra foi executada. "
+    "A comparação mostra os dois dados lado a lado e não estabelece relação de causa e efeito.",
+    icon="⚠️",
+)
 
 # ------------------------------------------------------------------ Fontes
 st.divider()
@@ -339,5 +181,11 @@ st.caption(
     f"Fonte: Agência Nacional de Águas e Saneamento Básico (ANA), [API HidroWebService]({dados.URL_ANA}), "
     f"coletada por código em {coleta:%d/%m/%Y} (`scripts/coleta_ana_hidroweb.py`). Estações 87450004 (Cais Mauá C6), "
     "87444000 e 87450020 (Usina do Gasômetro). Leituras inválidas (sem nível, picos isolados e sensor travado) foram "
-    "descartadas na limpeza. Simulação: INCT SiMAI (`data.json`)."
+    "descartadas na limpeza."
+)
+st.caption(
+    f"Fonte dos gastos: Portal da Transparência RS, [Dados abertos – Despesas do Estado]({dados.URL_TRANSPARENCIA}), "
+    f"arquivos de despesas baixados em {dados.COLETA_GASTOS}. Foram mantidos apenas os pagamentos das ações "
+    "orçamentárias de prevenção e proteção contra cheias (`scripts/config.py` e `scripts/classificar_acoes.py`). "
+    "Simulação: INCT SiMAI (`data.json`)."
 )

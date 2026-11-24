@@ -35,11 +35,28 @@ python scripts/limpeza_inct.py
 python scripts/limpeza_ana.py
 ```
 
-### 3. Análise exploratória
+### 3. Gastos do Estado com prevenção (Portal da Transparência RS)
+
+Os arquivos de despesas são grandes e por isso não estão no repositório (`dados_<ANO>/`, `dados_tratados/`, `resultados/` e `validacao/` estão no `.gitignore`). O resumo anual que o dashboard usa, `dados/processados/gastos_prevencao_anual.csv`, está versionado. Para refazê-lo:
+
+1. Baixe os ZIPs de **Despesas do Estado** de 2020 a 2026 em [Dados abertos](https://www.transparencia.rs.gov.br/dados-abertos/) do Portal da Transparência RS (coleta usada no dashboard: 09/11/2026) e coloque os de cada ano em `dados_<ANO>/` na raiz do projeto, por exemplo `dados_2024/`.
+2. Para cada ano, ajuste `ANO` em `scripts/config.py` e rode `python scripts/coletar_dados.py`. O script filtra as despesas ligadas a enchentes e grava `dados_tratados/despesas_enchentes_<ANO>.csv`.
+3. Rode a listagem e a classificação das ações orçamentárias:
+
+```bash
+python scripts/listar_acoes.py
+python scripts/classificar_acoes.py
+```
+
+O `classificar_acoes.py` separa os pagamentos em obras de prevenção, estudos e projetos e transferências para proteção, mostra as conferências (valores inválidos, negativos e duplicados) e grava o resumo anual em `dados/processados/gastos_prevencao_anual.csv`.
+
+Scripts auxiliares de conferência, rodados ano a ano: `analisar_gastos.py`, `selecionar_pagamentos.py`, `validar_pagamentos.py`, `verificar_pagamentos.py` e `verificar_maiores_pagamentos.py`.
+
+### 4. Análise exploratória
 
 Abra `notebooks/eda.ipynb`, que lê apenas os arquivos de `dados/processados/`.
 
-### 4. Dashboard
+### 5. Dashboard
 
 ```bash
 streamlit run app/app.py
@@ -48,7 +65,7 @@ streamlit run app/app.py
 Abre em http://localhost:8501. O app lê apenas os arquivos de `dados/processados/`.
 
 - **Tela 1** (`app/tela1_simulacao.py`): simulação do INCT, com controle do nível de 3,0 m a 10,0 m.
-- **Tela 2** (`app/tela2_guaiba.py`): nível do Guaíba ao longo dos anos (ANA), com filtro de período e de estações e ligação com a Tela 1 pela cheia de 2024. Os gastos estaduais com prevenção ainda vão entrar nesta tela.
+- **Tela 2** (`app/tela2_guaiba.py`): nível do Guaíba ao longo dos anos (ANA), com filtro de período, dias por ano acima das cotas e ligação com a Tela 1 pela cheia de 2024; depois, os gastos estaduais com prevenção de 2020 a 2026, comparados no mesmo gráfico com os dias de inundação de cada ano.
 
 Para publicar no Streamlit Community Cloud, use `app/app.py` como arquivo principal.
 
@@ -59,8 +76,9 @@ Para publicar no Streamlit Community Cloud, use `app/app.py` como arquivo princi
 | Simulação de enchentes por bairro | INCT SiMAI (`data.json`, fornecido pela professora) | — | `dados/originais/inct/` |
 | Nível do Guaíba (principal) | ANA, [HidroWebService](https://www.ana.gov.br/hidrowebservice/swagger-ui/index.html) | `scripts/coleta_ana_hidroweb.py` | `dados/originais/ana_hidroweb/` |
 | Nível do Guaíba (serviço antigo, para conferência) | ANA, [ServiceANA](https://telemetriaws1.ana.gov.br/ServiceANA.asmx) | `scripts/coleta_ana_guaiba.py` | `dados/originais/ana/` |
+| Gastos do Estado com prevenção de enchentes | Portal da Transparência RS, [Dados abertos – Despesas do Estado](https://www.transparencia.rs.gov.br/dados-abertos/) | download manual em 09/11/2026 | `dados_<ANO>/` (fora do repositório, ver item 3) |
 
-A data de cada requisição fica em `coleta_log.csv`, dentro da pasta de dados brutos de cada fonte.
+A data de cada requisição à ANA fica em `coleta_log.csv`, dentro da pasta de dados brutos de cada fonte.
 
 Os dois serviços da ANA trazem os mesmos dados. A API nova é a fonte principal. O serviço antigo, que não exige cadastro, continua no repositório para conferência e como alternativa caso a API fique indisponível. Para limpar os dados dele, use `python scripts/limpeza_ana.py --fonte servico_antigo`; as saídas vão para `dados/processados/servico_antigo/`.
 
@@ -82,7 +100,7 @@ Cada régua tem o seu próprio zero, por isso os níveis de estações diferente
 ├── dados/
 │   ├── originais/      # dados como vieram das fontes
 │   └── processados/    # dados limpos usados na EDA e no dashboard
-├── scripts/            # coleta e limpeza
+├── scripts/            # coleta, limpeza e classificação dos gastos
 ├── notebooks/          # EDA
 ├── app/                # código do dashboard (Streamlit)
 └── relatorios/         # relatórios das entregas

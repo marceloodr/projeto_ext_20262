@@ -11,6 +11,7 @@ LOG_ANA = RAIZ / "dados" / "originais" / "ana_hidroweb" / "coleta_log.csv"
 
 # Cores (paleta categórica do projeto, mesma ordem do EDA)
 AZUL, LARANJA, VERDE_AGUA = "#2a78d6", "#eb6834", "#1baf7a"
+AZUL_CLARO = "#9cc3ef"      # tom claro do azul, para a segunda série de gastos
 TEXTO, TEXTO_2, CINZA, GRADE = "#0b0b0b", "#52514e", "#8a8984", "#e6e5e1"
 
 PICO_2024 = 5.35            # pico de maio de 2024 (Usina do Gasômetro, 05/05/2024 05:30)
@@ -26,6 +27,8 @@ ESTACOES = {
 
 URL_ANA = "https://www.ana.gov.br/hidrowebservice/swagger-ui/index.html"
 URL_RELATORIO = "https://github.com/marceloodr/projeto_ext_20262/blob/main/relatorios/limpeza_dados.pdf"
+URL_TRANSPARENCIA = "https://www.transparencia.rs.gov.br/dados-abertos/"
+COLETA_GASTOS = "09/11/2026"   # download dos ZIPs de despesas do Portal da Transparência RS
 
 
 @st.cache_data
@@ -67,6 +70,13 @@ def data_coleta_ana():
     """Data e hora da última requisição registrada no log da coleta da ANA."""
     log = pd.read_csv(LOG_ANA, parse_dates=["data_coleta"])
     return log["data_coleta"].max()
+
+
+@st.cache_data
+def gastos():
+    """Pagamentos do Estado com prevenção de enchentes, por ano e categoria (em reais)."""
+    df = pd.read_csv(PROC / "gastos_prevencao_anual.csv", sep=";", decimal=",", encoding="utf-8-sig")
+    return df.astype({"Ano": int})
 
 
 def formatar(numero, casas=0):

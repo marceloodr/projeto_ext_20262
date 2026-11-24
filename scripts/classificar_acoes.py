@@ -355,6 +355,8 @@ print("\n" + "=" * 55)
 print("CONSOLIDAÇÃO ANUAL - PREVENÇÃO DE ENCHENTES")
 print("=" * 55)
 
+linhas_resumo = []
+
 for ano in range(2020, 2027):
     candidatos = [
         BASE / "dados_tratados" / f"despesas_enchentes_{ano}.csv",
@@ -411,5 +413,26 @@ for ano in range(2020, 2027):
         f"R$ {prevencao['ValorNumerico'].sum():,.2f}"
     )
 
+    por_categoria = prevencao.groupby("Categoria")["ValorNumerico"].sum()
+    linhas_resumo.append({
+        "Ano": ano,
+        "Obras": por_categoria.get("Obras de prevenção", 0.0),
+        "Estudos": por_categoria.get("Estudos e projetos", 0.0),
+        "Transferencias": por_categoria.get("Transferências para proteção", 0.0),
+        "Total": prevencao["ValorNumerico"].sum(),
+    })
 
-    
+
+# Resumo anual usado pelo dashboard (Tela 2)
+if len(linhas_resumo) < len(range(2020, 2027)):
+    print("\nResumo anual NÃO salvo: falta o arquivo de algum ano em dados_tratados/.")
+else:
+    destino = BASE / "dados" / "processados" / "gastos_prevencao_anual.csv"
+    pd.DataFrame(linhas_resumo).round(2).to_csv(
+        destino,
+        sep=";",
+        decimal=",",
+        index=False,
+        encoding="utf-8-sig"
+    )
+    print(f"\nResumo anual salvo em {destino}")
