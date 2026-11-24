@@ -7,7 +7,7 @@ Projeto extensionista da disciplina Coleta, Preparação e Análise de Dados (PU
 
 **Grupo:** João Vitor Baldi e Marcelo Daronco Ribas
 
-**Dashboard:** _link a definir_
+**Dashboard:** https://projetoext20262-betxb7u5qgwssczbv5gwvv.streamlit.app/
 
 ## Como rodar
 
